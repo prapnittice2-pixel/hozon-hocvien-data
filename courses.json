@@ -5916,5 +5916,292 @@
     ],
     "lessonsCount": 16,
     "durationMins": 385
+  },
+  {
+    "id": "mkt-01",
+    "categoryId": "marketing",
+    "title": "Marketing Fundamentals: Chiến Lược & Tư Duy",
+    "level": 1,
+    "tags": [
+      "marketing",
+      "strategy",
+      "4P"
+    ],
+    "lessonsCount": 21,
+    "durationMins": 470
+  },
+  {
+    "id": "mkt-02",
+    "categoryId": "marketing",
+    "title": "Digital Marketing: SEO, SEM & Search",
+    "level": 2,
+    "tags": [
+      "SEO",
+      "SEM",
+      "Google Ads"
+    ],
+    "lessonsCount": 21,
+    "durationMins": 480
+  },
+  {
+    "id": "mkt-03",
+    "categoryId": "marketing",
+    "title": "Social Media Marketing (Facebook, TikTok, Zalo)",
+    "level": 2,
+    "tags": [
+      "social",
+      "Facebook",
+      "TikTok"
+    ],
+    "lessonsCount": 21,
+    "durationMins": 465
+  },
+  {
+    "id": "mkt-04",
+    "categoryId": "marketing",
+    "title": "Content Marketing & Copywriting",
+    "level": 2,
+    "tags": [
+      "content",
+      "copywriting",
+      "storytelling"
+    ],
+    "lessonsCount": 21,
+    "durationMins": 460
+  },
+  {
+    "id": "mkt-05",
+    "categoryId": "marketing",
+    "title": "Email Marketing & Marketing Automation",
+    "level": 2,
+    "tags": [
+      "email",
+      "automation",
+      "CRM"
+    ],
+    "lessonsCount": 19,
+    "durationMins": 415
+  },
+  {
+    "id": "mkt-06",
+    "categoryId": "marketing",
+    "title": "Nghiên Cứu Thị Trường & Customer Insights",
+    "level": 2,
+    "tags": [
+      "research",
+      "insights",
+      "survey"
+    ],
+    "lessonsCount": 19,
+    "durationMins": 435
+  },
+  {
+    "id": "mkt-07",
+    "categoryId": "marketing",
+    "title": "Brand Management & Xây Dựng Thương Hiệu",
+    "level": 3,
+    "tags": [
+      "brand",
+      "identity",
+      "positioning"
+    ],
+    "lessonsCount": 19,
+    "durationMins": 420
+  },
+  {
+    "id": "mkt-08",
+    "categoryId": "marketing",
+    "title": "Kỹ Thuật Bán Hàng B2B: SPIN, Challenger & MEDDIC",
+    "level": 2,
+    "tags": [
+      "sales",
+      "B2B",
+      "SPIN"
+    ],
+    "lessonsCount": 21,
+    "durationMins": 495
+  },
+  {
+    "id": "mkt-09",
+    "categoryId": "marketing",
+    "title": "CRM & Quản Lý Quan Hệ Khách Hàng",
+    "level": 2,
+    "tags": [
+      "CRM",
+      "customer",
+      "retention"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 440
+  },
+  {
+    "id": "mkt-10",
+    "categoryId": "marketing",
+    "title": "Marketing Analytics & Đo Lường ROI",
+    "level": 3,
+    "tags": [
+      "analytics",
+      "ROI",
+      "GA4"
+    ],
+    "lessonsCount": 19,
+    "durationMins": 430
+  },
+  {
+    "id": "mkt-11",
+    "categoryId": "marketing",
+    "title": "Go-to-Market Strategy & Ra Mắt Sản Phẩm",
+    "level": 3,
+    "tags": [
+      "GTM",
+      "launch",
+      "market-entry"
+    ],
+    "lessonsCount": 17,
+    "durationMins": 390
+  },
+  {
+    "id": "mkt-12",
+    "categoryId": "marketing",
+    "title": "E-Commerce & Quản Lý Kênh Bán Hàng Online",
+    "level": 2,
+    "tags": [
+      "ecommerce",
+      "Shopee",
+      "marketplace"
+    ],
+    "lessonsCount": 19,
+    "durationMins": 430
+  },
+  {
+    "id": "esg-01",
+    "categoryId": "esg",
+    "title": "ESG Tổng Quan: Tại Sao Doanh Nghiệp VN Cần Hành Động",
+    "level": 1,
+    "tags": [
+      "ESG",
+      "overview",
+      "sustainability"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 345
+  },
+  {
+    "id": "esg-02",
+    "categoryId": "esg",
+    "title": "Carbon Accounting: Scope 1, 2 & 3 Emissions",
+    "level": 2,
+    "tags": [
+      "carbon",
+      "Scope1",
+      "Scope2",
+      "Scope3"
+    ],
+    "lessonsCount": 19,
+    "durationMins": 435
+  },
+  {
+    "id": "esg-03",
+    "categoryId": "esg",
+    "title": "GRI Standards & Báo Cáo Phát Triển Bền Vững",
+    "level": 2,
+    "tags": [
+      "GRI",
+      "reporting",
+      "disclosure"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 370
+  },
+  {
+    "id": "esg-04",
+    "categoryId": "esg",
+    "title": "EU CSRD, ESRS & Quy Định ESG Toàn Cầu",
+    "level": 3,
+    "tags": [
+      "CSRD",
+      "ESRS",
+      "regulation"
+    ],
+    "lessonsCount": 15,
+    "durationMins": 330
+  },
+  {
+    "id": "esg-05",
+    "categoryId": "esg",
+    "title": "Science-Based Targets & Lộ Trình Net Zero",
+    "level": 3,
+    "tags": [
+      "SBTi",
+      "NetZero",
+      "climate"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 355
+  },
+  {
+    "id": "esg-06",
+    "categoryId": "esg",
+    "title": "Social (S): Quyền Lao Động, DEI & Cộng Đồng",
+    "level": 2,
+    "tags": [
+      "social",
+      "DEI",
+      "labor-rights"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 350
+  },
+  {
+    "id": "esg-07",
+    "categoryId": "esg",
+    "title": "Governance (G): Quản Trị Doanh Nghiệp Tốt",
+    "level": 2,
+    "tags": [
+      "governance",
+      "ethics",
+      "board"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 345
+  },
+  {
+    "id": "esg-08",
+    "categoryId": "esg",
+    "title": "Kinh Tế Tuần Hoàn & Thiết Kế Bền Vững",
+    "level": 2,
+    "tags": [
+      "circular",
+      "waste",
+      "design"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 355
+  },
+  {
+    "id": "esg-09",
+    "categoryId": "esg",
+    "title": "Chuỗi Cung Ứng Bền Vững & Supplier ESG",
+    "level": 3,
+    "tags": [
+      "supply-chain",
+      "responsible",
+      "scope3"
+    ],
+    "lessonsCount": 15,
+    "durationMins": 335
+  },
+  {
+    "id": "esg-10",
+    "categoryId": "esg",
+    "title": "ESG Cho Doanh Nghiệp VN: Niêm Yết, FDI & XNK",
+    "level": 2,
+    "tags": [
+      "Vietnam",
+      "listed",
+      "compliance"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 360
   }
 ]
