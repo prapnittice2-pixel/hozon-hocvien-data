@@ -5171,5 +5171,161 @@
     ],
     "lessonsCount": 23,
     "durationMins": 525
+  },
+  {
+    "id": "pmc-01",
+    "categoryId": "pmc",
+    "title": "Tổng Quan PMC & Vai Trò Trong Chuỗi Cung Ứng Sản Xuất",
+    "level": 2,
+    "tags": [
+      "PMC",
+      "APICS",
+      "overview"
+    ],
+    "lessonsCount": 22,
+    "durationMins": 495
+  },
+  {
+    "id": "pmc-02",
+    "categoryId": "pmc",
+    "title": "Dự Báo Nhu Cầu & Demand Planning",
+    "level": 3,
+    "tags": [
+      "forecast",
+      "demand",
+      "statistics"
+    ],
+    "lessonsCount": 23,
+    "durationMins": 555
+  },
+  {
+    "id": "pmc-03",
+    "categoryId": "pmc",
+    "title": "Hoạch Định Bán Hàng & Vận Hành (S&OP)",
+    "level": 3,
+    "tags": [
+      "SOP",
+      "IBP",
+      "planning"
+    ],
+    "lessonsCount": 22,
+    "durationMins": 525
+  },
+  {
+    "id": "pmc-04",
+    "categoryId": "pmc",
+    "title": "Lập Lịch Sản Xuất Tổng Thể (MPS)",
+    "level": 3,
+    "tags": [
+      "MPS",
+      "master-schedule",
+      "ATP"
+    ],
+    "lessonsCount": 22,
+    "durationMins": 535
+  },
+  {
+    "id": "pmc-05",
+    "categoryId": "pmc",
+    "title": "Hoạch Định Nhu Cầu Vật Tư (MRP)",
+    "level": 3,
+    "tags": [
+      "MRP",
+      "material",
+      "BOM"
+    ],
+    "lessonsCount": 23,
+    "durationMins": 585
+  },
+  {
+    "id": "pmc-06",
+    "categoryId": "pmc",
+    "title": "Hoạch Định Năng Lực Sản Xuất (RCCP/CRP)",
+    "level": 3,
+    "tags": [
+      "capacity",
+      "RCCP",
+      "CRP"
+    ],
+    "lessonsCount": 22,
+    "durationMins": 530
+  },
+  {
+    "id": "pmc-07",
+    "categoryId": "pmc",
+    "title": "Quản Lý BOM & Định Mức Nguyên Vật Liệu",
+    "level": 2,
+    "tags": [
+      "BOM",
+      "routing",
+      "master-data"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 460
+  },
+  {
+    "id": "pmc-08",
+    "categoryId": "pmc",
+    "title": "Kiểm Soát Tồn Kho Sản Xuất & Vật Tư",
+    "level": 2,
+    "tags": [
+      "inventory",
+      "safety-stock",
+      "EOQ"
+    ],
+    "lessonsCount": 22,
+    "durationMins": 550
+  },
+  {
+    "id": "pmc-09",
+    "categoryId": "pmc",
+    "title": "Điều Độ Sản Xuất & Shop Floor Control",
+    "level": 2,
+    "tags": [
+      "scheduling",
+      "dispatch",
+      "MES"
+    ],
+    "lessonsCount": 22,
+    "durationMins": 520
+  },
+  {
+    "id": "pmc-10",
+    "categoryId": "pmc",
+    "title": "Quản Lý Đơn Hàng & Giao Hàng Đúng Hẹn (OTD)",
+    "level": 2,
+    "tags": [
+      "OTD",
+      "order",
+      "delivery"
+    ],
+    "lessonsCount": 21,
+    "durationMins": 485
+  },
+  {
+    "id": "pmc-11",
+    "categoryId": "pmc",
+    "title": "Lý Thuyết Ràng Buộc (TOC) & Quản Lý Nút Thắt",
+    "level": 3,
+    "tags": [
+      "TOC",
+      "DBR",
+      "bottleneck"
+    ],
+    "lessonsCount": 22,
+    "durationMins": 545
+  },
+  {
+    "id": "pmc-12",
+    "categoryId": "pmc",
+    "title": "APS, ERP & Số Hóa PMC",
+    "level": 3,
+    "tags": [
+      "APS",
+      "ERP",
+      "digital"
+    ],
+    "lessonsCount": 22,
+    "durationMins": 540
   }
 ]
