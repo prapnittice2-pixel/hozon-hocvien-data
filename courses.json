@@ -5327,5 +5327,594 @@
     ],
     "lessonsCount": 22,
     "durationMins": 540
+  },
+  {
+    "id": "qlduan-01",
+    "categoryId": "qlduan",
+    "title": "Tổng Quan Quản Lý Dự Án & Khung PMBOK",
+    "level": 2,
+    "tags": [
+      "PMP",
+      "PMBOK",
+      "project management"
+    ],
+    "lessonsCount": 18,
+    "durationMins": 375
+  },
+  {
+    "id": "qlduan-02",
+    "categoryId": "qlduan",
+    "title": "Khởi Tạo Dự Án: Project Charter & Stakeholder Analysis",
+    "level": 2,
+    "tags": [
+      "charter",
+      "initiation",
+      "stakeholder"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 340
+  },
+  {
+    "id": "qlduan-03",
+    "categoryId": "qlduan",
+    "title": "Lập Kế Hoạch Phạm Vi & WBS",
+    "level": 2,
+    "tags": [
+      "WBS",
+      "scope",
+      "decomposition"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 335
+  },
+  {
+    "id": "qlduan-04",
+    "categoryId": "qlduan",
+    "title": "Lập Lịch Dự Án: CPM, Gantt & Quản Lý Tiến Độ",
+    "level": 3,
+    "tags": [
+      "schedule",
+      "CPM",
+      "critical path",
+      "Gantt"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 380
+  },
+  {
+    "id": "qlduan-05",
+    "categoryId": "qlduan",
+    "title": "Quản Lý Ngân Sách & Earned Value Management (EVM)",
+    "level": 3,
+    "tags": [
+      "EVM",
+      "budget",
+      "cost",
+      "SPI",
+      "CPI"
+    ],
+    "lessonsCount": 15,
+    "durationMins": 365
+  },
+  {
+    "id": "qlduan-06",
+    "categoryId": "qlduan",
+    "title": "Quản Lý Rủi Ro Dự Án",
+    "level": 3,
+    "tags": [
+      "risk",
+      "RAID",
+      "mitigation",
+      "risk register"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 360
+  },
+  {
+    "id": "qlduan-07",
+    "categoryId": "qlduan",
+    "title": "Quản Lý Chất Lượng & Thay Đổi Dự Án",
+    "level": 2,
+    "tags": [
+      "quality",
+      "change control",
+      "CCB"
+    ],
+    "lessonsCount": 14,
+    "durationMins": 300
+  },
+  {
+    "id": "qlduan-08",
+    "categoryId": "qlduan",
+    "title": "Quản Lý Đội Nhóm & Giao Tiếp Dự Án",
+    "level": 2,
+    "tags": [
+      "team",
+      "communication",
+      "RACI",
+      "leadership"
+    ],
+    "lessonsCount": 14,
+    "durationMins": 310
+  },
+  {
+    "id": "qlduan-09",
+    "categoryId": "qlduan",
+    "title": "Agile Project Management: Scrum & Kanban Cho Dự Án",
+    "level": 3,
+    "tags": [
+      "agile",
+      "scrum",
+      "kanban",
+      "sprint"
+    ],
+    "lessonsCount": 14,
+    "durationMins": 305
+  },
+  {
+    "id": "qlduan-10",
+    "categoryId": "qlduan",
+    "title": "PRINCE2 & Dự Án Quy Mô Lớn",
+    "level": 3,
+    "tags": [
+      "PRINCE2",
+      "large project",
+      "governance"
+    ],
+    "lessonsCount": 12,
+    "durationMins": 285
+  },
+  {
+    "id": "qlduan-11",
+    "categoryId": "qlduan",
+    "title": "PMO: Văn Phòng Quản Lý Dự Án",
+    "level": 3,
+    "tags": [
+      "PMO",
+      "portfolio",
+      "program",
+      "governance"
+    ],
+    "lessonsCount": 12,
+    "durationMins": 265
+  },
+  {
+    "id": "qlduan-12",
+    "categoryId": "qlduan",
+    "title": "Kết Thúc Dự Án, Lessons Learned & Bàn Giao",
+    "level": 2,
+    "tags": [
+      "closeout",
+      "handover",
+      "lessons learned"
+    ],
+    "lessonsCount": 12,
+    "durationMins": 270
+  },
+  {
+    "id": "itcds-01",
+    "categoryId": "itcds",
+    "title": "Chuyển Đổi Số: Roadmap & Chiến Lược Doanh Nghiệp VN",
+    "level": 2,
+    "tags": [
+      "digital transformation",
+      "DX",
+      "strategy"
+    ],
+    "lessonsCount": 18,
+    "durationMins": 415
+  },
+  {
+    "id": "itcds-02",
+    "categoryId": "itcds",
+    "title": "ITIL 4: Quản Lý Dịch Vụ IT Hiện Đại",
+    "level": 2,
+    "tags": [
+      "ITIL",
+      "service management",
+      "ITSM"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 345
+  },
+  {
+    "id": "itcds-03",
+    "categoryId": "itcds",
+    "title": "An Ninh Mạng Cho Người Không Chuyên IT",
+    "level": 2,
+    "tags": [
+      "cybersecurity",
+      "awareness",
+      "phishing",
+      "PDPD"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 355
+  },
+  {
+    "id": "itcds-04",
+    "categoryId": "itcds",
+    "title": "Cloud Computing: AWS/Azure/GCP Cho Doanh Nghiệp",
+    "level": 2,
+    "tags": [
+      "cloud",
+      "AWS",
+      "Azure",
+      "SaaS",
+      "IaaS"
+    ],
+    "lessonsCount": 15,
+    "durationMins": 335
+  },
+  {
+    "id": "itcds-05",
+    "categoryId": "itcds",
+    "title": "ERP: Lựa Chọn, Triển Khai & Quản Lý Change",
+    "level": 3,
+    "tags": [
+      "ERP",
+      "SAP",
+      "Oracle",
+      "implementation"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 380
+  },
+  {
+    "id": "itcds-06",
+    "categoryId": "itcds",
+    "title": "Tự Động Hóa Quy Trình: RPA & Low-Code",
+    "level": 3,
+    "tags": [
+      "RPA",
+      "automation",
+      "low-code",
+      "UiPath",
+      "Power Automate"
+    ],
+    "lessonsCount": 15,
+    "durationMins": 335
+  },
+  {
+    "id": "itcds-07",
+    "categoryId": "itcds",
+    "title": "Quản Trị Dữ Liệu & Data Governance",
+    "level": 3,
+    "tags": [
+      "data governance",
+      "GDPR",
+      "PDPD",
+      "data quality",
+      "master data"
+    ],
+    "lessonsCount": 15,
+    "durationMins": 340
+  },
+  {
+    "id": "itcds-08",
+    "categoryId": "itcds",
+    "title": "AI & Machine Learning Cho Nhà Quản Lý",
+    "level": 2,
+    "tags": [
+      "AI",
+      "ML",
+      "ChatGPT",
+      "prompt engineering",
+      "use cases"
+    ],
+    "lessonsCount": 15,
+    "durationMins": 340
+  },
+  {
+    "id": "itcds-09",
+    "categoryId": "itcds",
+    "title": "Agile IT & DevOps Cho Business Stakeholders",
+    "level": 2,
+    "tags": [
+      "agile",
+      "DevOps",
+      "CI/CD",
+      "product thinking"
+    ],
+    "lessonsCount": 13,
+    "durationMins": 285
+  },
+  {
+    "id": "itcds-10",
+    "categoryId": "itcds",
+    "title": "Luật Công Nghệ Thông Tin VN & Compliance Số",
+    "level": 2,
+    "tags": [
+      "PDPD",
+      "cybersecurity law",
+      "compliance",
+      "Luật ANMXM"
+    ],
+    "lessonsCount": 13,
+    "durationMins": 285
+  },
+  {
+    "id": "taichinh-01",
+    "categoryId": "taichinh",
+    "title": "Tài Chính Cho Nhà Quản Lý Non-Finance",
+    "level": 2,
+    "tags": [
+      "finance basics",
+      "P&L",
+      "cash flow",
+      "non-finance"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 385
+  },
+  {
+    "id": "taichinh-02",
+    "categoryId": "taichinh",
+    "title": "Phân Tích Báo Cáo Tài Chính",
+    "level": 3,
+    "tags": [
+      "financial analysis",
+      "ratio",
+      "DuPont",
+      "CAMEL"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 405
+  },
+  {
+    "id": "taichinh-03",
+    "categoryId": "taichinh",
+    "title": "Ra Quyết Định Đầu Tư: NPV, IRR & Capital Budgeting",
+    "level": 3,
+    "tags": [
+      "NPV",
+      "IRR",
+      "capex",
+      "payback",
+      "WACC"
+    ],
+    "lessonsCount": 15,
+    "durationMins": 375
+  },
+  {
+    "id": "taichinh-04",
+    "categoryId": "taichinh",
+    "title": "Định Giá Doanh Nghiệp: DCF & Comparable",
+    "level": 4,
+    "tags": [
+      "valuation",
+      "DCF",
+      "multiples",
+      "EV/EBITDA"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 395
+  },
+  {
+    "id": "taichinh-05",
+    "categoryId": "taichinh",
+    "title": "Quản Trị Vốn Lưu Động & Treasury",
+    "level": 3,
+    "tags": [
+      "working capital",
+      "cash management",
+      "CCC",
+      "treasury"
+    ],
+    "lessonsCount": 15,
+    "durationMins": 360
+  },
+  {
+    "id": "taichinh-06",
+    "categoryId": "taichinh",
+    "title": "Cấu Trúc Vốn, WACC & Đòn Bẩy Tài Chính",
+    "level": 4,
+    "tags": [
+      "capital structure",
+      "WACC",
+      "leverage",
+      "Modigliani-Miller"
+    ],
+    "lessonsCount": 15,
+    "durationMins": 370
+  },
+  {
+    "id": "taichinh-07",
+    "categoryId": "taichinh",
+    "title": "M&A: Mua Bán & Sáp Nhập Doanh Nghiệp",
+    "level": 4,
+    "tags": [
+      "M&A",
+      "due diligence",
+      "deal structure",
+      "synergy"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 385
+  },
+  {
+    "id": "taichinh-08",
+    "categoryId": "taichinh",
+    "title": "Quản Lý Rủi Ro Tài Chính & Phòng Ngừa Tỷ Giá",
+    "level": 3,
+    "tags": [
+      "FX risk",
+      "hedging",
+      "derivatives",
+      "interest rate"
+    ],
+    "lessonsCount": 15,
+    "durationMins": 340
+  },
+  {
+    "id": "taichinh-09",
+    "categoryId": "taichinh",
+    "title": "Mô Hình Tài Chính Trong Excel",
+    "level": 3,
+    "tags": [
+      "financial modeling",
+      "Excel",
+      "3-statement",
+      "scenario"
+    ],
+    "lessonsCount": 15,
+    "durationMins": 395
+  },
+  {
+    "id": "taichinh-10",
+    "categoryId": "taichinh",
+    "title": "Startup Finance: Gọi Vốn, VC & Term Sheet",
+    "level": 3,
+    "tags": [
+      "startup",
+      "VC",
+      "equity",
+      "term sheet",
+      "cap table"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 375
+  },
+  {
+    "id": "dataanalytics-01",
+    "categoryId": "dataanalytics",
+    "title": "Data Literacy: Tư Duy Dữ Liệu Cho Nhà Quản Lý",
+    "level": 2,
+    "tags": [
+      "data literacy",
+      "data mindset",
+      "KPI",
+      "metrics"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 365
+  },
+  {
+    "id": "dataanalytics-02",
+    "categoryId": "dataanalytics",
+    "title": "Excel Nâng Cao & Power Query Cho Phân Tích",
+    "level": 2,
+    "tags": [
+      "Excel",
+      "Power Query",
+      "pivot",
+      "advanced Excel"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 400
+  },
+  {
+    "id": "dataanalytics-03",
+    "categoryId": "dataanalytics",
+    "title": "Power BI: Từ Dữ Liệu Đến Dashboard",
+    "level": 2,
+    "tags": [
+      "Power BI",
+      "DAX",
+      "data model",
+      "dashboard"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 405
+  },
+  {
+    "id": "dataanalytics-04",
+    "categoryId": "dataanalytics",
+    "title": "SQL Cho Business Users",
+    "level": 2,
+    "tags": [
+      "SQL",
+      "database",
+      "SELECT",
+      "query",
+      "analytics"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 400
+  },
+  {
+    "id": "dataanalytics-05",
+    "categoryId": "dataanalytics",
+    "title": "Thống Kê Ứng Dụng Cho Ra Quyết Định",
+    "level": 3,
+    "tags": [
+      "statistics",
+      "hypothesis testing",
+      "regression",
+      "A/B test"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 415
+  },
+  {
+    "id": "dataanalytics-06",
+    "categoryId": "dataanalytics",
+    "title": "Data Storytelling & Data Visualization",
+    "level": 2,
+    "tags": [
+      "data viz",
+      "storytelling",
+      "Tableau",
+      "chart selection"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 350
+  },
+  {
+    "id": "dataanalytics-07",
+    "categoryId": "dataanalytics",
+    "title": "Python Basics Cho Data Analytics",
+    "level": 3,
+    "tags": [
+      "Python",
+      "pandas",
+      "numpy",
+      "matplotlib",
+      "Jupyter"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 385
+  },
+  {
+    "id": "dataanalytics-08",
+    "categoryId": "dataanalytics",
+    "title": "Business Intelligence: Chiến Lược & Hạ Tầng",
+    "level": 3,
+    "tags": [
+      "BI",
+      "data warehouse",
+      "ETL",
+      "data lake",
+      "star schema"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 365
+  },
+  {
+    "id": "dataanalytics-09",
+    "categoryId": "dataanalytics",
+    "title": "Analytics Ứng Dụng: Operations, Sales & Finance",
+    "level": 3,
+    "tags": [
+      "operations analytics",
+      "sales analytics",
+      "financial analytics"
+    ],
+    "lessonsCount": 15,
+    "durationMins": 380
+  },
+  {
+    "id": "dataanalytics-10",
+    "categoryId": "dataanalytics",
+    "title": "AI & Predictive Analytics Cho Doanh Nghiệp",
+    "level": 4,
+    "tags": [
+      "predictive",
+      "machine learning",
+      "forecasting",
+      "classification"
+    ],
+    "lessonsCount": 16,
+    "durationMins": 385
   }
 ]
