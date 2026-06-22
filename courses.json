@@ -6203,5 +6203,509 @@
     ],
     "lessonsCount": 16,
     "durationMins": 360
+  },
+  {
+    "id": "dx-01",
+    "categoryId": "dx",
+    "order": 1,
+    "level": "beginner",
+    "durationMins": 425,
+    "title": "Tổng Quan Chuyển Đổi Số & Industry 4.0",
+    "description": "Định nghĩa DX, 9 công nghệ nền Industry 4.0, maturity model và roadmap chiến lược cho doanh nghiệp VN",
+    "objectives": [
+      "Hiểu rõ DX khác gì số hóa thông thường",
+      "Áp dụng DX maturity model tự đánh giá",
+      "Xây dựng business case và KPIs đo lường DX"
+    ],
+    "prerequisiteIds": [],
+    "lessonsCount": 20
+  },
+  {
+    "id": "dx-02",
+    "categoryId": "dx",
+    "order": 2,
+    "level": "intermediate",
+    "durationMins": 435,
+    "title": "IoT/IIoT & Cảm Biến Trong Sản Xuất",
+    "description": "Sensors, protocols (MQTT/OPC-UA/Modbus), edge computing, SCADA và real-time monitoring cho nhà máy",
+    "objectives": [
+      "Chọn đúng loại cảm biến cho ứng dụng",
+      "Thiết kế kiến trúc IIoT từ sensor đến cloud",
+      "Tính ROI và roadmap triển khai IIoT"
+    ],
+    "prerequisiteIds": [
+      "dx-01"
+    ],
+    "lessonsCount": 20
+  },
+  {
+    "id": "dx-03",
+    "categoryId": "dx",
+    "order": 3,
+    "level": "intermediate",
+    "durationMins": 440,
+    "title": "AI & Machine Learning Ứng Dụng Sản Xuất",
+    "description": "Computer vision, predictive analytics, NLP, anomaly detection — từ use case đến triển khai thực tế",
+    "objectives": [
+      "Xác định AI use cases phù hợp nhà máy",
+      "Đánh giá model và đo lường hiệu quả",
+      "Triển khai MLOps và quản lý AI trong production"
+    ],
+    "prerequisiteIds": [
+      "dx-01"
+    ],
+    "lessonsCount": 20
+  },
+  {
+    "id": "dx-04",
+    "categoryId": "dx",
+    "order": 4,
+    "level": "advanced",
+    "durationMins": 405,
+    "title": "Digital Twin & Mô Phỏng Nhà Máy",
+    "description": "Khái niệm, platforms, process simulation, energy optimization và implementation roadmap cho Digital Twin",
+    "objectives": [
+      "Hiểu các loại Digital Twin và mức độ trưởng thành",
+      "Tích hợp Digital Twin với MES/ERP",
+      "Tính ROI và quản lý dự án Digital Twin"
+    ],
+    "prerequisiteIds": [
+      "dx-02",
+      "dx-03"
+    ],
+    "lessonsCount": 18
+  },
+  {
+    "id": "dx-05",
+    "categoryId": "dx",
+    "order": 5,
+    "level": "intermediate",
+    "durationMins": 440,
+    "title": "MES — Manufacturing Execution System",
+    "description": "11 chức năng MES, phân biệt MES/ERP/SCADA, selection, implementation và KPIs đo lường",
+    "objectives": [
+      "Phân biệt rõ vai trò MES trong ISA-95",
+      "Xây dựng RFP và tiêu chí chọn MES",
+      "Quản lý implementation và change management MES"
+    ],
+    "prerequisiteIds": [
+      "dx-01"
+    ],
+    "lessonsCount": 20
+  },
+  {
+    "id": "dx-06",
+    "categoryId": "dx",
+    "order": 6,
+    "level": "intermediate",
+    "durationMins": 435,
+    "title": "Dữ Liệu & Analytics Sản Xuất",
+    "description": "Data strategy, OT/IT data, data lake, ETL, real-time analytics, BI tools và data governance cho manufacturing",
+    "objectives": [
+      "Thiết kế data architecture cho nhà máy",
+      "Xây dựng manufacturing KPI dashboard",
+      "Triển khai data governance và data quality"
+    ],
+    "prerequisiteIds": [
+      "dx-02"
+    ],
+    "lessonsCount": 20
+  },
+  {
+    "id": "dx-07",
+    "categoryId": "dx",
+    "order": 7,
+    "level": "advanced",
+    "durationMins": 390,
+    "title": "Cybersecurity Cho Nhà Máy (OT Security)",
+    "description": "OT vs IT security, IEC 62443, network segmentation, incident response và hardening PLC/SCADA",
+    "objectives": [
+      "Phân biệt OT vs IT security fundamentals",
+      "Apply IEC 62443 cho môi trường nhà máy",
+      "Xây dựng OT security program và incident response"
+    ],
+    "prerequisiteIds": [
+      "dx-02"
+    ],
+    "lessonsCount": 18
+  },
+  {
+    "id": "dx-08",
+    "categoryId": "dx",
+    "order": 8,
+    "level": "advanced",
+    "durationMins": 445,
+    "title": "ERP Implementation & Change Management",
+    "description": "Selection (SAP/Oracle/Microsoft/local), data migration, testing, go-live và change management",
+    "objectives": [
+      "Lãnh đạo dự án ERP từ selection đến go-live",
+      "Quản lý data migration và UAT testing",
+      "Triển khai change management cho ERP adoption"
+    ],
+    "prerequisiteIds": [
+      "dx-01"
+    ],
+    "lessonsCount": 20
+  },
+  {
+    "id": "dx-09",
+    "categoryId": "dx",
+    "order": 9,
+    "level": "intermediate",
+    "durationMins": 390,
+    "title": "Cloud & Infrastructure Số",
+    "description": "Cloud models (IaaS/PaaS/SaaS), hybrid cloud, containerization, DevOps, digital workplace và governance",
+    "objectives": [
+      "Chọn cloud strategy phù hợp cho doanh nghiệp VN",
+      "Áp dụng DevOps và CI/CD pipeline",
+      "Quản lý cloud cost và security governance"
+    ],
+    "prerequisiteIds": [
+      "dx-01"
+    ],
+    "lessonsCount": 18
+  },
+  {
+    "id": "dx-10",
+    "categoryId": "dx",
+    "order": 10,
+    "level": "advanced",
+    "durationMins": 440,
+    "title": "Roadmap DX Cho Doanh Nghiệp VN",
+    "description": "Framework đánh giá, AS-IS/TO-BE, technology selection, talent strategy và scaling DX cho SME/mid/enterprise VN",
+    "objectives": [
+      "Thực hiện DX readiness assessment",
+      "Xây dựng DX roadmap 3-5 năm",
+      "Quản lý DX portfolio và đo lường tiến độ"
+    ],
+    "prerequisiteIds": [
+      "dx-01",
+      "dx-05",
+      "dx-08"
+    ],
+    "lessonsCount": 20
+  },
+  {
+    "id": "fs-01",
+    "categoryId": "foodsafety",
+    "order": 1,
+    "level": "beginner",
+    "durationMins": 445,
+    "title": "HACCP — 7 Nguyên Tắc Cốt Lõi",
+    "description": "Lịch sử, prerequisites, hazard analysis, CCPs, critical limits, monitoring, corrective actions, verification và records",
+    "objectives": [
+      "Xây dựng HACCP plan đầy đủ từ đầu",
+      "Phân biệt CCP vs oPRP vs CP chính xác",
+      "Thực hiện HACCP audit và revalidation"
+    ],
+    "prerequisiteIds": [],
+    "lessonsCount": 20
+  },
+  {
+    "id": "fs-02",
+    "categoryId": "foodsafety",
+    "order": 2,
+    "level": "beginner",
+    "durationMins": 385,
+    "title": "GMP & GHP — Thực Hành Tốt Sản Xuất",
+    "description": "Facility/equipment requirements, personnel hygiene, cleaning & disinfection, pest control, water quality và documentation",
+    "objectives": [
+      "Thiết kế GMP program cho nhà máy thực phẩm",
+      "Xây dựng cleaning & disinfection SOP",
+      "Chuẩn bị cho GMP audit internal và external"
+    ],
+    "prerequisiteIds": [
+      "fs-01"
+    ],
+    "lessonsCount": 18
+  },
+  {
+    "id": "fs-03",
+    "categoryId": "foodsafety",
+    "order": 3,
+    "level": "intermediate",
+    "durationMins": 395,
+    "title": "ISO 22000:2018 — Hệ Thống FSMS",
+    "description": "HLS structure, context analysis, PRPs, HACCP plan trong ISO 22000, monitoring, internal audit và continual improvement",
+    "objectives": [
+      "Implement ISO 22000 trong doanh nghiệp",
+      "Tích hợp HACCP vào FSMS framework",
+      "Chuẩn bị certification audit Stage 1 & 2"
+    ],
+    "prerequisiteIds": [
+      "fs-01",
+      "fs-02"
+    ],
+    "lessonsCount": 18
+  },
+  {
+    "id": "fs-04",
+    "categoryId": "foodsafety",
+    "order": 4,
+    "level": "advanced",
+    "durationMins": 395,
+    "title": "FSSC 22000 v6 — Chứng Nhận GFSI",
+    "description": "Additional requirements v6, food fraud/defense, allergen management, culture assessment, environmental monitoring",
+    "objectives": [
+      "Hiểu và áp dụng FSSC additional requirements v6",
+      "Xây dựng food fraud vulnerability assessment",
+      "Chuẩn bị và duy trì chứng nhận FSSC 22000"
+    ],
+    "prerequisiteIds": [
+      "fs-03"
+    ],
+    "lessonsCount": 18
+  },
+  {
+    "id": "fs-05",
+    "categoryId": "foodsafety",
+    "order": 5,
+    "level": "intermediate",
+    "durationMins": 350,
+    "title": "Quản Lý Dị Ứng Thực Phẩm (Allergen)",
+    "description": "14 major allergens, risk assessment, segregation, cleaning validation, labeling requirements VN/EU/US",
+    "objectives": [
+      "Xây dựng allergen management program",
+      "Validate cleaning procedures loại bỏ allergen",
+      "Đảm bảo labeling compliance VN và quốc tế"
+    ],
+    "prerequisiteIds": [
+      "fs-02"
+    ],
+    "lessonsCount": 16
+  },
+  {
+    "id": "fs-06",
+    "categoryId": "foodsafety",
+    "order": 6,
+    "level": "advanced",
+    "durationMins": 395,
+    "title": "Kiểm Soát Vi Sinh & Hóa Học",
+    "description": "Big 6 pathogens, kill steps validation, environmental monitoring, chemical hazards, allergen testing",
+    "objectives": [
+      "Thiết kế environmental monitoring program",
+      "Validate kill steps và heat treatment",
+      "Quản lý chemical hazards trong sản xuất thực phẩm"
+    ],
+    "prerequisiteIds": [
+      "fs-01"
+    ],
+    "lessonsCount": 18
+  },
+  {
+    "id": "fs-07",
+    "categoryId": "foodsafety",
+    "order": 7,
+    "level": "intermediate",
+    "durationMins": 350,
+    "title": "Truy Xuất Nguồn Gốc & Mock Recall",
+    "description": "One-up one-down traceability, lot coding, mock recall exercise, regulatory notification và CAPA",
+    "objectives": [
+      "Thiết kế hệ thống lot coding và traceability",
+      "Tổ chức mock recall đạt target < 4 giờ",
+      "Xây dựng recall procedure và communication plan"
+    ],
+    "prerequisiteIds": [
+      "fs-02"
+    ],
+    "lessonsCount": 16
+  },
+  {
+    "id": "fs-08",
+    "categoryId": "foodsafety",
+    "order": 8,
+    "level": "advanced",
+    "durationMins": 340,
+    "title": "BRC/IFS & Tiêu Chuẩn GFSI",
+    "description": "GFSI overview, BRC Issue 9, IFS Food v8, SQF, food defense/fraud, audit preparation",
+    "objectives": [
+      "Hiểu yêu cầu BRC và IFS Food",
+      "Chuẩn bị cho GFSI audit unannounced",
+      "So sánh và chọn tiêu chuẩn phù hợp cho doanh nghiệp"
+    ],
+    "prerequisiteIds": [
+      "fs-03"
+    ],
+    "lessonsCount": 16
+  },
+  {
+    "id": "fs-09",
+    "categoryId": "foodsafety",
+    "order": 9,
+    "level": "intermediate",
+    "durationMins": 385,
+    "title": "Vệ Sinh Công Nghiệp Thực Phẩm (Sanitation)",
+    "description": "CIP/COP design, cleaning chemistry, disinfection methods, pest control IPM, drain management và verification",
+    "objectives": [
+      "Thiết kế CIP program và validate hiệu quả",
+      "Xây dựng IPM program ngăn ngừa côn trùng",
+      "Verify sanitation effectiveness bằng ATP testing"
+    ],
+    "prerequisiteIds": [
+      "fs-02"
+    ],
+    "lessonsCount": 18
+  },
+  {
+    "id": "fs-10",
+    "categoryId": "foodsafety",
+    "order": 10,
+    "level": "advanced",
+    "durationMins": 350,
+    "title": "Kiểm Toán FSMS & Chuẩn Bị Certification",
+    "description": "Internal audit program, audit techniques, finding classification, CAPA, regulatory inspection VN và FDA",
+    "objectives": [
+      "Dẫn dắt internal FSMS audit chuyên nghiệp",
+      "Viết audit findings theo chuẩn quốc tế",
+      "Quản lý CAPA response và certification maintenance"
+    ],
+    "prerequisiteIds": [
+      "fs-03",
+      "fs-04"
+    ],
+    "lessonsCount": 16
+  },
+  {
+    "id": "ld-01",
+    "categoryId": "leadership",
+    "order": 1,
+    "level": "beginner",
+    "durationMins": 400,
+    "title": "Nền Tảng Lãnh Đạo — Styles & Models",
+    "description": "Phân biệt leadership vs management, các lý thuyết lãnh đạo, self-awareness, values-based leadership và feedback",
+    "objectives": [
+      "Phân biệt vai trò lãnh đạo và quản lý",
+      "Xác định leadership style cá nhân",
+      "Xây dựng nền tảng tự nhận thức và ethical leadership"
+    ],
+    "prerequisiteIds": [],
+    "lessonsCount": 20
+  },
+  {
+    "id": "ld-02",
+    "categoryId": "leadership",
+    "order": 2,
+    "level": "intermediate",
+    "durationMins": 365,
+    "title": "Lãnh Đạo Tình Huống (Situational Leadership II)",
+    "description": "Development levels D1-D4, leadership styles S1-S4, matching style to readiness, managing regression và team application",
+    "objectives": [
+      "Chẩn đoán chính xác development level của nhân viên",
+      "Điều chỉnh style lãnh đạo theo từng tình huống",
+      "Phát triển nhân viên từ D1 lên D4 có hệ thống"
+    ],
+    "prerequisiteIds": [
+      "ld-01"
+    ],
+    "lessonsCount": 18
+  },
+  {
+    "id": "ld-03",
+    "categoryId": "leadership",
+    "order": 3,
+    "level": "intermediate",
+    "durationMins": 430,
+    "title": "Coaching & Mentoring Nhân Viên",
+    "description": "GROW model, active listening, powerful questions, feedback frameworks, coaching conversation, mentoring program",
+    "objectives": [
+      "Áp dụng GROW model trong coaching session",
+      "Sử dụng powerful questions khai phá tiềm năng",
+      "Thiết kế và vận hành mentoring program"
+    ],
+    "prerequisiteIds": [
+      "ld-01"
+    ],
+    "lessonsCount": 20
+  },
+  {
+    "id": "ld-04",
+    "categoryId": "leadership",
+    "order": 4,
+    "level": "intermediate",
+    "durationMins": 390,
+    "title": "Xây Dựng Đội Ngũ Hiệu Suất Cao",
+    "description": "Tuckman stages, Google Project Aristotle, Belbin roles, Lencioni 5 dysfunctions, team charter và conflict resolution",
+    "objectives": [
+      "Lãnh đạo team qua các stages Tuckman",
+      "Áp dụng 5 yếu tố Project Aristotle",
+      "Giải quyết conflict và xây dựng accountability"
+    ],
+    "prerequisiteIds": [
+      "ld-01"
+    ],
+    "lessonsCount": 18
+  },
+  {
+    "id": "ld-05",
+    "categoryId": "leadership",
+    "order": 5,
+    "level": "advanced",
+    "durationMins": 395,
+    "title": "Tâm Lý An Toàn & Trust Building",
+    "description": "Amy Edmondson research, 4 stages, SCARF model, trust (Covey), inclusive leadership và measuring PS",
+    "objectives": [
+      "Tạo môi trường tâm lý an toàn trong team",
+      "Xây dựng và phục hồi trust sau sự cố",
+      "Ứng dụng SCARF model quản lý hành vi"
+    ],
+    "prerequisiteIds": [
+      "ld-04"
+    ],
+    "lessonsCount": 18
+  },
+  {
+    "id": "ld-06",
+    "categoryId": "leadership",
+    "order": 6,
+    "level": "advanced",
+    "durationMins": 390,
+    "title": "Executive Presence & Influence",
+    "description": "3 dimensions of EP, gravitas, communication style, storytelling, influencing without authority, managing up",
+    "objectives": [
+      "Phát triển executive presence 3 chiều",
+      "Ảnh hưởng không dựa vào quyền lực",
+      "Trình bày tự tin với senior leaders và board"
+    ],
+    "prerequisiteIds": [
+      "ld-01"
+    ],
+    "lessonsCount": 18
+  },
+  {
+    "id": "ld-07",
+    "categoryId": "leadership",
+    "order": 7,
+    "level": "advanced",
+    "durationMins": 445,
+    "title": "Lãnh Đạo Trong Thay Đổi & Khủng Hoảng",
+    "description": "Kotter 8-step + Accelerate, ADKAR, crisis leadership, VUCA, decision under pressure và resilience building",
+    "objectives": [
+      "Lãnh đạo tổ chức qua major change program",
+      "Ra quyết định hiệu quả trong khủng hoảng",
+      "Xây dựng tổ chức resilient và adaptive"
+    ],
+    "prerequisiteIds": [
+      "ld-04",
+      "ld-05"
+    ],
+    "lessonsCount": 20
+  },
+  {
+    "id": "ld-08",
+    "categoryId": "leadership",
+    "order": 8,
+    "level": "intermediate",
+    "durationMins": 380,
+    "title": "Self-Leadership & Phát Triển Bản Thân",
+    "description": "Personal vision, time/energy management, EQ 4 quadrants, mindfulness, imposter syndrome, career strategy",
+    "objectives": [
+      "Xây dựng personal leadership system",
+      "Quản lý năng lượng và focus hiệu quả",
+      "Phát triển lộ trình career dài hạn có chủ đích"
+    ],
+    "prerequisiteIds": [
+      "ld-01"
+    ],
+    "lessonsCount": 18
   }
 ]
