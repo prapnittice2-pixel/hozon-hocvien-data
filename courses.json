@@ -4472,5 +4472,704 @@
       "ql-15"
     ],
     "lessonsCount": 18
+  },
+  {
+    "id": "nv-01",
+    "categoryId": "nghiepvu",
+    "title": "Kỹ Năng Viết Báo Cáo & Văn Bản Chuyên Nghiệp",
+    "level": 2,
+    "tags": [
+      "writing",
+      "business"
+    ],
+    "lessonsCount": 24,
+    "durationMins": 535
+  },
+  {
+    "id": "nv-02",
+    "categoryId": "nghiepvu",
+    "title": "Kỹ Năng Thuyết Trình & Diễn Đạt",
+    "level": 2,
+    "tags": [
+      "presentation",
+      "communication"
+    ],
+    "lessonsCount": 24,
+    "durationMins": 540
+  },
+  {
+    "id": "nv-03",
+    "categoryId": "nghiepvu",
+    "title": "Phân Tích Nghiệp Vụ Kinh Doanh (Business Analysis)",
+    "level": 3,
+    "tags": [
+      "BA",
+      "IIBA",
+      "BABOK"
+    ],
+    "lessonsCount": 26,
+    "durationMins": 630
+  },
+  {
+    "id": "nv-04",
+    "categoryId": "nghiepvu",
+    "title": "Kỹ Năng Bán Hàng B2B & Tư Vấn Giải Pháp",
+    "level": 2,
+    "tags": [
+      "sales",
+      "B2B",
+      "SPIN"
+    ],
+    "lessonsCount": 24,
+    "durationMins": 545
+  },
+  {
+    "id": "nv-05",
+    "categoryId": "nghiepvu",
+    "title": "Chăm Sóc Khách Hàng Chuyên Nghiệp (CX)",
+    "level": 2,
+    "tags": [
+      "CX",
+      "NPS",
+      "customer"
+    ],
+    "lessonsCount": 22,
+    "durationMins": 485
+  },
+  {
+    "id": "nv-06",
+    "categoryId": "nghiepvu",
+    "title": "Đàm Phán Hợp Đồng Thương Mại",
+    "level": 3,
+    "tags": [
+      "negotiation",
+      "contract",
+      "Harvard"
+    ],
+    "lessonsCount": 22,
+    "durationMins": 510
+  },
+  {
+    "id": "nv-07",
+    "categoryId": "nghiepvu",
+    "title": "Quản Lý Văn Phòng & Hành Chính Hiệu Quả",
+    "level": 2,
+    "tags": [
+      "office",
+      "admin"
+    ],
+    "lessonsCount": 22,
+    "durationMins": 465
+  },
+  {
+    "id": "nv-08",
+    "categoryId": "nghiepvu",
+    "title": "Excel Nâng Cao Cho Phân Tích Kinh Doanh",
+    "level": 2,
+    "tags": [
+      "Excel",
+      "data",
+      "MOS"
+    ],
+    "lessonsCount": 26,
+    "durationMins": 660
+  },
+  {
+    "id": "nv-09",
+    "categoryId": "nghiepvu",
+    "title": "Hệ Thống ERP & Tự Động Hóa Nghiệp Vụ",
+    "level": 2,
+    "tags": [
+      "ERP",
+      "SAP",
+      "automation"
+    ],
+    "lessonsCount": 22,
+    "durationMins": 520
+  },
+  {
+    "id": "nv-10",
+    "categoryId": "nghiepvu",
+    "title": "Digital Marketing & Thương Mại Điện Tử",
+    "level": 2,
+    "tags": [
+      "marketing",
+      "ecommerce",
+      "digital"
+    ],
+    "lessonsCount": 24,
+    "durationMins": 580
+  },
+  {
+    "id": "sq-01",
+    "categoryId": "sinhquan",
+    "title": "Quản Lý Cơ Sở Vật Chất (Facility Management ISO 41001)",
+    "level": 3,
+    "tags": [
+      "facility",
+      "IFMA",
+      "ISO41001"
+    ],
+    "lessonsCount": 24,
+    "durationMins": 540
+  },
+  {
+    "id": "sq-02",
+    "categoryId": "sinhquan",
+    "title": "An Ninh & Bảo Vệ Doanh Nghiệp",
+    "level": 2,
+    "tags": [
+      "security",
+      "ASIS",
+      "CPP"
+    ],
+    "lessonsCount": 22,
+    "durationMins": 485
+  },
+  {
+    "id": "sq-03",
+    "categoryId": "sinhquan",
+    "title": "Quản Lý Bếp Ăn & Dịch Vụ Ăn Uống Công Nghiệp",
+    "level": 2,
+    "tags": [
+      "canteen",
+      "HACCP",
+      "food"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 440
+  },
+  {
+    "id": "sq-04",
+    "categoryId": "sinhquan",
+    "title": "Quản Lý Đội Xe & Phương Tiện Nội Bộ",
+    "level": 2,
+    "tags": [
+      "fleet",
+      "vehicle",
+      "GPS"
+    ],
+    "lessonsCount": 22,
+    "durationMins": 485
+  },
+  {
+    "id": "sq-05",
+    "categoryId": "sinhquan",
+    "title": "Vệ Sinh Công Nghiệp & Tổng Vệ Sinh Nhà Máy",
+    "level": 2,
+    "tags": [
+      "cleaning",
+      "GMP",
+      "pest"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 420
+  },
+  {
+    "id": "sq-06",
+    "categoryId": "sinhquan",
+    "title": "Tổ Chức Sự Kiện Doanh Nghiệp",
+    "level": 2,
+    "tags": [
+      "event",
+      "CMP",
+      "conference"
+    ],
+    "lessonsCount": 22,
+    "durationMins": 485
+  },
+  {
+    "id": "sq-07",
+    "categoryId": "sinhquan",
+    "title": "Quản Lý Hồ Sơ & Lưu Trữ Doanh Nghiệp",
+    "level": 2,
+    "tags": [
+      "records",
+      "ISO15489",
+      "DMS"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 445
+  },
+  {
+    "id": "sq-08",
+    "categoryId": "sinhquan",
+    "title": "Quản Lý Tài Sản Doanh Nghiệp (ISO 55001)",
+    "level": 3,
+    "tags": [
+      "asset",
+      "ISO55001",
+      "CMMS"
+    ],
+    "lessonsCount": 24,
+    "durationMins": 560
+  },
+  {
+    "id": "sq-09",
+    "categoryId": "sinhquan",
+    "title": "5S Văn Phòng & Công Xưởng: Triển Khai Thực Tế",
+    "level": 2,
+    "tags": [
+      "5S",
+      "visual",
+      "kaizen"
+    ],
+    "lessonsCount": 22,
+    "durationMins": 485
+  },
+  {
+    "id": "sq-10",
+    "categoryId": "sinhquan",
+    "title": "Hành Chính Tổng Hợp & Phúc Lợi Tập Thể",
+    "level": 2,
+    "tags": [
+      "admin",
+      "welfare",
+      "benefit"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 420
+  },
+  {
+    "id": "xnk-01",
+    "categoryId": "xnk",
+    "title": "Tổng Quan Thương Mại Quốc Tế & Pháp Lý XNK",
+    "level": 2,
+    "tags": [
+      "trade",
+      "WTO",
+      "CISG"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 460
+  },
+  {
+    "id": "xnk-02",
+    "categoryId": "xnk",
+    "title": "Incoterms 2020: Điều Kiện Thương Mại Quốc Tế",
+    "level": 3,
+    "tags": [
+      "Incoterms",
+      "ICC",
+      "DDP"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 455
+  },
+  {
+    "id": "xnk-03",
+    "categoryId": "xnk",
+    "title": "Thủ Tục Hải Quan Việt Nam (VCOS)",
+    "level": 3,
+    "tags": [
+      "customs",
+      "VCOS",
+      "VNACCS"
+    ],
+    "lessonsCount": 21,
+    "durationMins": 485
+  },
+  {
+    "id": "xnk-04",
+    "categoryId": "xnk",
+    "title": "L/C & Thanh Toán Quốc Tế (UCP 600)",
+    "level": 3,
+    "tags": [
+      "LC",
+      "UCP600",
+      "SWIFT"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 445
+  },
+  {
+    "id": "xnk-05",
+    "categoryId": "xnk",
+    "title": "HS Code & Biểu Thuế Nhập Khẩu",
+    "level": 2,
+    "tags": [
+      "HScode",
+      "tariff",
+      "classification"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 465
+  },
+  {
+    "id": "xnk-06",
+    "categoryId": "xnk",
+    "title": "FTA, CPTPP & EVFTA: Ưu Đãi Thuế Quan",
+    "level": 3,
+    "tags": [
+      "FTA",
+      "CPTPP",
+      "EVFTA"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 460
+  },
+  {
+    "id": "xnk-07",
+    "categoryId": "xnk",
+    "title": "Logistics Quốc Tế & Vận Tải Đa Phương Thức",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "FIATA",
+      "multimodal"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 425
+  },
+  {
+    "id": "xnk-08",
+    "categoryId": "xnk",
+    "title": "Chứng Từ Xuất Khẩu: C/O, B/L, Packing List",
+    "level": 2,
+    "tags": [
+      "docs",
+      "CO",
+      "BL"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 420
+  },
+  {
+    "id": "xnk-09",
+    "categoryId": "xnk",
+    "title": "Kiểm Tra Chất Lượng Hàng Nhập Khẩu",
+    "level": 2,
+    "tags": [
+      "inspection",
+      "QC",
+      "AQSIQ"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 445
+  },
+  {
+    "id": "xnk-10",
+    "categoryId": "xnk",
+    "title": "AEO & Tuân Thủ Hải Quan Doanh Nghiệp",
+    "level": 3,
+    "tags": [
+      "AEO",
+      "compliance",
+      "WCO"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 465
+  },
+  {
+    "id": "xnk-11",
+    "categoryId": "xnk",
+    "title": "Trade Finance: Tài Trợ Thương Mại Quốc Tế",
+    "level": 3,
+    "tags": [
+      "finance",
+      "SCF",
+      "factoring"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 440
+  },
+  {
+    "id": "xnk-12",
+    "categoryId": "xnk",
+    "title": "Xuất Khẩu Nông Sản & Thực Phẩm VN",
+    "level": 2,
+    "tags": [
+      "agri",
+      "food",
+      "SPS"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 455
+  },
+  {
+    "id": "tk-01",
+    "categoryId": "thietke",
+    "title": "Quản Lý Phát Triển Sản Phẩm Mới (NPD/PDMA)",
+    "level": 3,
+    "tags": [
+      "NPD",
+      "PDMA",
+      "stage-gate"
+    ],
+    "lessonsCount": 25,
+    "durationMins": 585
+  },
+  {
+    "id": "tk-02",
+    "categoryId": "thietke",
+    "title": "APQP & DFMEA: Lập Kế Hoạch Chất Lượng Tiên Tiến",
+    "level": 3,
+    "tags": [
+      "APQP",
+      "DFMEA",
+      "AIAG"
+    ],
+    "lessonsCount": 23,
+    "durationMins": 560
+  },
+  {
+    "id": "tk-03",
+    "categoryId": "thietke",
+    "title": "GD&T: Dung Sai Hình Học & Vị Trí (ASME Y14.5)",
+    "level": 3,
+    "tags": [
+      "GDT",
+      "ASME",
+      "tolerance"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 525
+  },
+  {
+    "id": "tk-04",
+    "categoryId": "thietke",
+    "title": "DFM/DFA: Thiết Kế Cho Sản Xuất & Lắp Ráp",
+    "level": 3,
+    "tags": [
+      "DFM",
+      "DFA",
+      "design"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 475
+  },
+  {
+    "id": "tk-05",
+    "categoryId": "thietke",
+    "title": "Industrial Design: Thiết Kế Công Nghiệp & UX Sản Phẩm",
+    "level": 2,
+    "tags": [
+      "ID",
+      "UX",
+      "ergonomics"
+    ],
+    "lessonsCount": 21,
+    "durationMins": 450
+  },
+  {
+    "id": "tk-06",
+    "categoryId": "thietke",
+    "title": "CAD/CAM Căn Bản & Quy Trình Số Hóa Thiết Kế",
+    "level": 2,
+    "tags": [
+      "CAD",
+      "CAM",
+      "PLM"
+    ],
+    "lessonsCount": 21,
+    "durationMins": 470
+  },
+  {
+    "id": "tk-07",
+    "categoryId": "thietke",
+    "title": "R&D Project Management & Portfolio",
+    "level": 3,
+    "tags": [
+      "RD",
+      "PM",
+      "innovation"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 480
+  },
+  {
+    "id": "tk-08",
+    "categoryId": "thietke",
+    "title": "Packaging Engineering: Thiết Kế Bao Bì",
+    "level": 2,
+    "tags": [
+      "packaging",
+      "ISTA",
+      "FMEA"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 440
+  },
+  {
+    "id": "tk-09",
+    "categoryId": "thietke",
+    "title": "Value Engineering & Value Analysis (VE/VA)",
+    "level": 3,
+    "tags": [
+      "VE",
+      "VA",
+      "cost"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 465
+  },
+  {
+    "id": "tk-10",
+    "categoryId": "thietke",
+    "title": "Thiết Kế Thử Nghiệm & Xác Nhận Sản Phẩm (DVP&R)",
+    "level": 3,
+    "tags": [
+      "DVP",
+      "testing",
+      "validation"
+    ],
+    "lessonsCount": 21,
+    "durationMins": 495
+  },
+  {
+    "id": "tt-01",
+    "categoryId": "tuanthu",
+    "title": "Kiểm Toán Nội Bộ: IIA CIA & IPPF 2024",
+    "level": 3,
+    "tags": [
+      "CIA",
+      "IIA",
+      "IPPF"
+    ],
+    "lessonsCount": 24,
+    "durationMins": 595
+  },
+  {
+    "id": "tt-02",
+    "categoryId": "tuanthu",
+    "title": "Kiểm Soát Nội Bộ: COSO 2013 Framework",
+    "level": 3,
+    "tags": [
+      "COSO",
+      "ICFR",
+      "control"
+    ],
+    "lessonsCount": 21,
+    "durationMins": 505
+  },
+  {
+    "id": "tt-03",
+    "categoryId": "tuanthu",
+    "title": "Quản Trị Rủi Ro Doanh Nghiệp (ERM – COSO 2017)",
+    "level": 3,
+    "tags": [
+      "ERM",
+      "risk",
+      "COSO"
+    ],
+    "lessonsCount": 21,
+    "durationMins": 500
+  },
+  {
+    "id": "tt-04",
+    "categoryId": "tuanthu",
+    "title": "IT Audit & Kiểm Toán Hệ Thống (CISA)",
+    "level": 3,
+    "tags": [
+      "CISA",
+      "ISACA",
+      "IT"
+    ],
+    "lessonsCount": 21,
+    "durationMins": 510
+  },
+  {
+    "id": "tt-05",
+    "categoryId": "tuanthu",
+    "title": "Chống Tham Nhũng & Hối Lộ (ISO 37001/FCPA)",
+    "level": 3,
+    "tags": [
+      "ISO37001",
+      "ABMS",
+      "FCPA"
+    ],
+    "lessonsCount": 20,
+    "durationMins": 465
+  },
+  {
+    "id": "tt-06",
+    "categoryId": "tuanthu",
+    "title": "Pháp Luật Doanh Nghiệp & Hợp Đồng Thương Mại VN",
+    "level": 2,
+    "tags": [
+      "law",
+      "contract",
+      "enterprise"
+    ],
+    "lessonsCount": 21,
+    "durationMins": 485
+  },
+  {
+    "id": "tt-07",
+    "categoryId": "tuanthu",
+    "title": "Corporate Governance & Quản Trị Công Ty",
+    "level": 3,
+    "tags": [
+      "governance",
+      "ESG",
+      "board"
+    ],
+    "lessonsCount": 21,
+    "durationMins": 485
+  },
+  {
+    "id": "tt-08",
+    "categoryId": "tuanthu",
+    "title": "Quy Trình ĐGNB ISO 9001 & Hệ Thống Quản Lý",
+    "level": 2,
+    "tags": [
+      "ISO9001",
+      "audit",
+      "QMS"
+    ],
+    "lessonsCount": 21,
+    "durationMins": 480
+  },
+  {
+    "id": "tt-09",
+    "categoryId": "tuanthu",
+    "title": "Data Protection & PDPA Việt Nam",
+    "level": 2,
+    "tags": [
+      "PDPA",
+      "privacy",
+      "GDPR"
+    ],
+    "lessonsCount": 21,
+    "durationMins": 485
+  },
+  {
+    "id": "tt-10",
+    "categoryId": "tuanthu",
+    "title": "Tuân Thủ Lao Động & An Toàn Sức Khỏe (OSHA)",
+    "level": 2,
+    "tags": [
+      "labor",
+      "OSHA",
+      "HSE"
+    ],
+    "lessonsCount": 21,
+    "durationMins": 485
+  },
+  {
+    "id": "tt-11",
+    "categoryId": "tuanthu",
+    "title": "Anti-Money Laundering (AML) & KYC",
+    "level": 3,
+    "tags": [
+      "AML",
+      "KYC",
+      "FATF"
+    ],
+    "lessonsCount": 21,
+    "durationMins": 505
+  },
+  {
+    "id": "tt-12",
+    "categoryId": "tuanthu",
+    "title": "ESG Reporting & Phát Triển Bền Vững Doanh Nghiệp",
+    "level": 3,
+    "tags": [
+      "ESG",
+      "GRI",
+      "TCFD"
+    ],
+    "lessonsCount": 23,
+    "durationMins": 525
   }
 ]
