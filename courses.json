@@ -1011,757 +1011,6 @@
     ]
   },
   {
-    "id": "lss-yb-01",
-    "categoryId": "lss",
-    "order": 1,
-    "level": "beginner",
-    "durationMins": 440,
-    "title": "Giới Thiệu Lean Six Sigma",
-    "description": "Hiểu bản chất LSS, lịch sử hình thành, vai trò từng đai, lộ trình chứng chỉ và lợi ích áp dụng trong doanh nghiệp sản xuất Việt Nam.",
-    "objectives": [
-      "Giải thích Lean Six Sigma là gì và nguồn gốc",
-      "Phân biệt Yellow/Green/Black Belt",
-      "Hiểu cấu trúc DMAIC",
-      "Nhận diện lợi ích LSS trong nhà máy VN"
-    ],
-    "prerequisiteIds": [],
-    "lessonsCount": 20
-  },
-  {
-    "id": "lss-yb-02",
-    "categoryId": "lss",
-    "order": 2,
-    "level": "beginner",
-    "durationMins": 472,
-    "title": "Lean Cơ Bản: 8 Loại Lãng Phí và 5S",
-    "description": "Nhận diện 8 loại lãng phí TIMWOODI trong nhà máy, triển khai 5S từ S1 đến S5, xây dựng tiêu chuẩn và duy trì kết quả bền vững.",
-    "objectives": [
-      "Nhận diện 8 muda trong dây chuyền sản xuất",
-      "Triển khai đợt 5S đầu tiên đúng trình tự",
-      "Xây dựng checklist audit 5S",
-      "Đo lường kết quả trước-sau 5S bằng số liệu"
-    ],
-    "prerequisiteIds": [
-      "lss-yb-01"
-    ],
-    "lessonsCount": 22
-  },
-  {
-    "id": "lss-yb-03",
-    "categoryId": "lss",
-    "order": 3,
-    "level": "beginner",
-    "durationMins": 572,
-    "title": "7 Công Cụ QC Cơ Bản cho Yellow Belt",
-    "description": "Thực hành 7 công cụ chất lượng cổ điển: Checksheet, Pareto, Biểu đồ xương cá, Histogram, Control Chart, Scatter Plot, Flowchart trong bối cảnh sản xuất thực tế.",
-    "objectives": [
-      "Vẽ và đọc biểu đồ Pareto 80/20",
-      "Lập biểu đồ Ishikawa đúng cách",
-      "Xây dựng checksheet thu thập dữ liệu hiệu quả",
-      "Áp dụng đúng công cụ cho từng loại vấn đề"
-    ],
-    "prerequisiteIds": [
-      "lss-yb-01"
-    ],
-    "lessonsCount": 25
-  },
-  {
-    "id": "lss-yb-04",
-    "categoryId": "lss",
-    "order": 4,
-    "level": "beginner",
-    "durationMins": 488,
-    "title": "Thu Thập và Đo Lường Dữ Liệu",
-    "description": "Phân biệt dữ liệu biến liên tục và thuộc tính, thiết kế kế hoạch thu thập dữ liệu, tính toán cỡ mẫu, và hiểu cơ bản về biến động trong quá trình.",
-    "objectives": [
-      "Phân biệt dữ liệu liên tục vs thuộc tính",
-      "Thiết kế MSA đơn giản để kiểm tra hệ thống đo",
-      "Tính cỡ mẫu tối thiểu cần thu thập",
-      "Nhận diện nguồn gây biến động trong quá trình"
-    ],
-    "prerequisiteIds": [
-      "lss-yb-01"
-    ],
-    "lessonsCount": 22
-  },
-  {
-    "id": "lss-yb-05",
-    "categoryId": "lss",
-    "order": 5,
-    "level": "beginner",
-    "durationMins": 455,
-    "title": "Define Phase: Xác Định Vấn Đề và Mục Tiêu",
-    "description": "Lập Project Charter, SIPOC, VOC/CTQ tree cho dự án Yellow Belt. Học cách phát biểu vấn đề đúng chuẩn và thiết lập mục tiêu SMART.",
-    "objectives": [
-      "Lập Project Charter hoàn chỉnh",
-      "Xây dựng sơ đồ SIPOC",
-      "Chuyển đổi tiếng nói khách hàng thành CTQ đo lường được",
-      "Phát biểu vấn đề theo chuẩn Problem Statement"
-    ],
-    "prerequisiteIds": [
-      "lss-yb-01",
-      "lss-yb-04"
-    ],
-    "lessonsCount": 20
-  },
-  {
-    "id": "lss-yb-06",
-    "categoryId": "lss",
-    "order": 6,
-    "level": "beginner",
-    "durationMins": 494,
-    "title": "Yellow Belt Project Simulation",
-    "description": "Thực hành toàn bộ DMAIC qua bài toán mô phỏng từ nhà máy sản xuất: từ xác định vấn đề, thu thập dữ liệu, phân tích nguyên nhân đến đề xuất cải tiến và kiểm soát.",
-    "objectives": [
-      "Hoàn thành dự án DMAIC từ A-Z",
-      "Trình bày kết quả bằng báo cáo A3",
-      "Tính toán tiết kiệm tài chính từ cải tiến",
-      "Lập Control Plan duy trì kết quả"
-    ],
-    "prerequisiteIds": [
-      "lss-yb-01",
-      "lss-yb-02",
-      "lss-yb-03",
-      "lss-yb-04",
-      "lss-yb-05"
-    ],
-    "lessonsCount": 20
-  },
-  {
-    "id": "lss-gb-01",
-    "categoryId": "lss",
-    "order": 7,
-    "level": "intermediate",
-    "durationMins": 672,
-    "title": "DMAIC Define Nâng Cao: Từ Vấn Đề Đến Dự Án",
-    "description": "Kỹ năng Define giai đoạn 1 chuyên sâu: multi-level CTQ, Stakeholder Analysis, Project Charter chuẩn ASQ, quản lý kỳ vọng sponsor, và gate review đầu tiên.",
-    "objectives": [
-      "Lập Project Charter chuẩn Green Belt",
-      "Xây dựng Business Case thuyết phục",
-      "Phân tích stakeholder và quản lý kỳ vọng",
-      "Hoàn thành gate review Define"
-    ],
-    "prerequisiteIds": [
-      "lss-yb-05"
-    ],
-    "lessonsCount": 28
-  },
-  {
-    "id": "lss-gb-02",
-    "categoryId": "lss",
-    "order": 8,
-    "level": "intermediate",
-    "durationMins": 742,
-    "title": "DMAIC Measure: Quy Trình, Đo Lường và Baseline",
-    "description": "Giai đoạn Measure toàn diện: lập Measurement System Analysis (MSA), tính Process Capability, xác lập Baseline Sigma, thu thập dữ liệu chuẩn.",
-    "objectives": [
-      "Thực hiện MSA đầy đủ (Gage R&R)",
-      "Tính Cp, Cpk, Pp, Ppk chính xác",
-      "Xác lập baseline sigma cho CTQ",
-      "Phân tích Process Map chi tiết"
-    ],
-    "prerequisiteIds": [
-      "lss-gb-01"
-    ],
-    "lessonsCount": 28
-  },
-  {
-    "id": "lss-gb-03",
-    "categoryId": "lss",
-    "order": 9,
-    "level": "intermediate",
-    "durationMins": 837,
-    "title": "Thống Kê Cơ Bản cho Green Belt",
-    "description": "Nền tảng thống kê để phân tích dữ liệu sản xuất: phân phối xác suất, ước lượng, khoảng tin cậy, kiểm định giả thuyết cơ bản, tương quan và hồi quy đơn giản.",
-    "objectives": [
-      "Tính và diễn giải khoảng tin cậy",
-      "Thực hiện kiểm định t-test và z-test",
-      "Đọc p-value và kết luận đúng",
-      "Phân tích tương quan Pearson"
-    ],
-    "prerequisiteIds": [
-      "lss-yb-04"
-    ],
-    "lessonsCount": 32
-  },
-  {
-    "id": "lss-gb-04",
-    "categoryId": "lss",
-    "order": 10,
-    "level": "intermediate",
-    "durationMins": 715,
-    "title": "DMAIC Analyze: Tìm Nguyên Nhân Gốc Rễ",
-    "description": "Giai đoạn Analyze chuyên sâu: từ hypothesis đến confirmed root cause. Kiểm định giả thuyết, phân tích hồi quy, DOE sơ bộ, multi-vari study.",
-    "objectives": [
-      "Lập và kiểm định hypothesis về root cause",
-      "Dùng regression phân tích mối quan hệ X-Y",
-      "Thực hiện multi-vari study",
-      "Xác nhận root cause bằng dữ liệu"
-    ],
-    "prerequisiteIds": [
-      "lss-gb-02",
-      "lss-gb-03"
-    ],
-    "lessonsCount": 28
-  },
-  {
-    "id": "lss-gb-05",
-    "categoryId": "lss",
-    "order": 11,
-    "level": "intermediate",
-    "durationMins": 734,
-    "title": "DMAIC Improve: Thiết Kế và Triển Khai Giải Pháp",
-    "description": "Giai đoạn Improve: brainstorm sáng tạo, lựa chọn giải pháp, DOE cơ bản, pilot test, triển khai và đo kết quả thực tế.",
-    "objectives": [
-      "Tổ chức brainstorming hiệu quả",
-      "Dùng Solution Selection Matrix",
-      "Thiết kế và chạy DOE đơn giản",
-      "Thực hiện pilot và đánh giá kết quả"
-    ],
-    "prerequisiteIds": [
-      "lss-gb-04"
-    ],
-    "lessonsCount": 28
-  },
-  {
-    "id": "lss-gb-06",
-    "categoryId": "lss",
-    "order": 12,
-    "level": "intermediate",
-    "durationMins": 711,
-    "title": "DMAIC Control: Kiểm Soát và Duy Trì Bền Vững",
-    "description": "Giai đoạn Control hoàn chỉnh: SPC implementation, Control Plan, FMEA cập nhật, Transfer to Process Owner, project closure và celebration.",
-    "objectives": [
-      "Thiết lập SPC chart phù hợp",
-      "Lập Control Plan chi tiết",
-      "Bàn giao dự án cho Process Owner",
-      "Hoàn thành project closure report"
-    ],
-    "prerequisiteIds": [
-      "lss-gb-05"
-    ],
-    "lessonsCount": 28
-  },
-  {
-    "id": "lss-gb-07",
-    "categoryId": "lss",
-    "order": 13,
-    "level": "intermediate",
-    "durationMins": 750,
-    "title": "Biểu Đồ Kiểm Soát (Control Charts) Chuyên Sâu",
-    "description": "Tất cả các loại control chart: Xbar-R, Xbar-S, I-MR, p, np, c, u charts. Lựa chọn đúng loại, nhận diện tín hiệu, phân tích tình huống thực tế.",
-    "objectives": [
-      "Chọn đúng control chart cho từng tình huống",
-      "Phát hiện 8 tín hiệu Western Electric Rules",
-      "Phân biệt biến động Common vs Special Cause",
-      "Thiết lập control chart từ đầu"
-    ],
-    "prerequisiteIds": [
-      "lss-yb-04"
-    ],
-    "lessonsCount": 28
-  },
-  {
-    "id": "lss-gb-08",
-    "categoryId": "lss",
-    "order": 14,
-    "level": "intermediate",
-    "durationMins": 726,
-    "title": "Năng Lực Quá Trình (Process Capability)",
-    "description": "Tính toán và diễn giải Cp, Cpk, Pp, Ppk, Cpm, sigma level, DPMO cho cả dữ liệu liên tục và thuộc tính trong môi trường sản xuất thực tế.",
-    "objectives": [
-      "Tính Cp/Cpk chính xác và diễn giải",
-      "Phân biệt Cp và Cpk, Pp và Ppk",
-      "Tính năng lực cho dữ liệu thuộc tính",
-      "Lập kế hoạch cải tiến từ Cpk"
-    ],
-    "prerequisiteIds": [
-      "lss-gb-03"
-    ],
-    "lessonsCount": 28
-  },
-  {
-    "id": "lss-gb-09",
-    "categoryId": "lss",
-    "order": 15,
-    "level": "intermediate",
-    "durationMins": 726,
-    "title": "FMEA: Phân Tích Rủi Ro và Phòng Ngừa Lỗi",
-    "description": "FMEA Process toàn diện theo chuẩn AIAG-VDA 2019: xác định failure modes, đánh giá Severity/Occurrence/Detection, tính RPN, lập action plan.",
-    "objectives": [
-      "Thực hiện Process FMEA từ A-Z",
-      "Đánh giá S/O/D theo thang chuẩn AIAG",
-      "Ưu tiên action plan theo RPN",
-      "Cập nhật FMEA sau cải tiến"
-    ],
-    "prerequisiteIds": [
-      "lss-gb-01"
-    ],
-    "lessonsCount": 28
-  },
-  {
-    "id": "lss-gb-10",
-    "categoryId": "lss",
-    "order": 16,
-    "level": "intermediate",
-    "durationMins": 715,
-    "title": "Value Stream Mapping (VSM): Nhìn Thấy Toàn Bộ Dòng Giá Trị",
-    "description": "VSM từ cơ bản đến nâng cao: vẽ current state, xác định waste và bottleneck, thiết kế future state, lập implementation roadmap.",
-    "objectives": [
-      "Vẽ Current State Map chuẩn Lean",
-      "Tính Lead Time và Process Time",
-      "Xác định bottleneck và waste",
-      "Thiết kế Future State với Lean principles"
-    ],
-    "prerequisiteIds": [
-      "lss-yb-02"
-    ],
-    "lessonsCount": 28
-  },
-  {
-    "id": "lss-gb-11",
-    "categoryId": "lss",
-    "order": 17,
-    "level": "intermediate",
-    "durationMins": 735,
-    "title": "Lean Nâng Cao: Kaizen, JIT, Heijunka và Pull Systems",
-    "description": "Hệ thống Lean hoàn chỉnh: Just-In-Time production, Kanban pull system, Heijunka (production leveling), Single-Minute Exchange of Die (SMED), Total Productive Maintenance (TPM).",
-    "objectives": [
-      "Thiết kế hệ thống Kanban pull",
-      "Tính toán và triển khai SMED",
-      "Lập kế hoạch Heijunka",
-      "Hiểu TPM và 6 big losses"
-    ],
-    "prerequisiteIds": [
-      "lss-yb-02",
-      "lss-gb-10"
-    ],
-    "lessonsCount": 28
-  },
-  {
-    "id": "lss-gb-12",
-    "categoryId": "lss",
-    "order": 18,
-    "level": "intermediate",
-    "durationMins": 602,
-    "title": "Green Belt Capstone: Dự Án Thực Chiến",
-    "description": "Hoàn thành dự án DMAIC Green Belt thực tế từ A-Z: Define → Measure → Analyze → Improve → Control với mentoring từ Black Belt. Báo cáo cuối và kết quả đo được.",
-    "objectives": [
-      "Hoàn thành dự án GB đầy đủ DMAIC",
-      "Đạt kết quả tài chính đo được",
-      "Trình bày với ban lãnh đạo",
-      "Bàn giao và đảm bảo duy trì"
-    ],
-    "prerequisiteIds": [
-      "lss-gb-06",
-      "lss-gb-07",
-      "lss-gb-08",
-      "lss-gb-09"
-    ],
-    "lessonsCount": 24
-  },
-  {
-    "id": "lss-bb-01",
-    "categoryId": "lss",
-    "order": 19,
-    "level": "advanced",
-    "durationMins": 753,
-    "title": "Six Sigma Define và Measure Nâng Cao",
-    "description": "Kỹ thuật Define/Measure cấp BB: Project Portfolio Management, multi-CTQ trees, advanced MSA (linearity, bias, stability), expanded sampling strategies.",
-    "objectives": [
-      "Quản lý danh mục dự án BB",
-      "MSA nâng cao: linearity, bias, stability",
-      "Thiết kế sampling strategies phức tạp",
-      "Phân tích process complexity"
-    ],
-    "prerequisiteIds": [
-      "lss-gb-06"
-    ],
-    "lessonsCount": 28
-  },
-  {
-    "id": "lss-bb-02",
-    "categoryId": "lss",
-    "order": 20,
-    "level": "advanced",
-    "durationMins": 844,
-    "title": "Thống Kê Suy Diễn Nâng Cao",
-    "description": "Thống kê cấp BB: ANOVA nhiều chiều, Levene Test, Mood Median Test, Kruskal-Wallis, Welch ANOVA, bootstrapping, bayesian basics, power analysis chuyên sâu.",
-    "objectives": [
-      "Thực hiện ANOVA đa chiều",
-      "Chọn đúng kiểm định non-parametric",
-      "Tính power và sample size phức tạp",
-      "Diễn giải kết quả thống kê phức tạp"
-    ],
-    "prerequisiteIds": [
-      "lss-gb-03"
-    ],
-    "lessonsCount": 30
-  },
-  {
-    "id": "lss-bb-03",
-    "categoryId": "lss",
-    "order": 21,
-    "level": "advanced",
-    "durationMins": 806,
-    "title": "Design of Experiments (DOE) Cơ Bản đến Nâng Cao",
-    "description": "DOE từ full factorial đến fractional factorial: 2k, 2k-p designs, center points, blocking, randomization, main effects, interaction plots, curvature detection.",
-    "objectives": [
-      "Thiết kế 2k full factorial",
-      "Chạy và phân tích full factorial",
-      "Xây dựng regression model từ DOE",
-      "Tối ưu hóa bằng đồ thị contour"
-    ],
-    "prerequisiteIds": [
-      "lss-gb-04"
-    ],
-    "lessonsCount": 28
-  },
-  {
-    "id": "lss-bb-04",
-    "categoryId": "lss",
-    "order": 22,
-    "level": "advanced",
-    "durationMins": 897,
-    "title": "DOE Nâng Cao: Fractional Factorial và Response Surface",
-    "description": "Fractional factorial designs, Plackett-Burman screening, Response Surface Methodology (RSM), Central Composite Design (CCD), Box-Behnken Design, Mixture Designs.",
-    "objectives": [
-      "Thiết kế và phân tích fractional factorial",
-      "Sử dụng Plackett-Burman để screening",
-      "Thực hiện RSM để tối ưu hóa",
-      "Diễn giải contour và surface plots"
-    ],
-    "prerequisiteIds": [
-      "lss-bb-03"
-    ],
-    "lessonsCount": 30
-  },
-  {
-    "id": "lss-bb-05",
-    "categoryId": "lss",
-    "order": 23,
-    "level": "advanced",
-    "durationMins": 753,
-    "title": "MSA Nâng Cao: Gage R&R và Measurement Uncertainty",
-    "description": "MSA cấp BB: Gage R&R crossed và nested, linearity study, bias study, stability study, destructive testing MSA, attribute MSA kappa, AIAG MSA 4th edition.",
-    "objectives": [
-      "Thực hiện Gage R&R crossed/nested",
-      "Phân tích linearity và bias",
-      "MSA cho destructive testing",
-      "Tính measurement uncertainty (GUM)"
-    ],
-    "prerequisiteIds": [
-      "lss-gb-02"
-    ],
-    "lessonsCount": 27
-  },
-  {
-    "id": "lss-bb-06",
-    "categoryId": "lss",
-    "order": 24,
-    "level": "advanced",
-    "durationMins": 779,
-    "title": "ANOVA và Phân Tích Phương Sai",
-    "description": "One-way ANOVA, Two-way ANOVA, ANCOVA, Repeated Measures ANOVA, Mixed Models, Post-hoc tests (Tukey, Bonferroni, Dunnett), Multiple Comparison Problem.",
-    "objectives": [
-      "Thực hiện One-way và Two-way ANOVA",
-      "Kiểm tra giả định ANOVA",
-      "Dùng post-hoc tests đúng cách",
-      "Xử lý unbalanced designs"
-    ],
-    "prerequisiteIds": [
-      "lss-bb-02"
-    ],
-    "lessonsCount": 28
-  },
-  {
-    "id": "lss-bb-07",
-    "categoryId": "lss",
-    "order": 25,
-    "level": "advanced",
-    "durationMins": 842,
-    "title": "Hồi Quy Đa Biến và Logistic Regression",
-    "description": "Multiple regression, stepwise selection, multicollinearity, VIF, ridge regression, logistic regression, binary and ordinal outcomes, model validation.",
-    "objectives": [
-      "Xây dựng và validate multiple regression model",
-      "Phát hiện và xử lý multicollinearity",
-      "Thực hiện logistic regression",
-      "Diễn giải odds ratio"
-    ],
-    "prerequisiteIds": [
-      "lss-bb-02"
-    ],
-    "lessonsCount": 30
-  },
-  {
-    "id": "lss-bb-08",
-    "categoryId": "lss",
-    "order": 26,
-    "level": "advanced",
-    "durationMins": 755,
-    "title": "Kiểm Định Giả Thuyết Nâng Cao",
-    "description": "Phức tạp hóa hypothesis testing: equivalence testing, non-inferiority, sequential testing, adaptive designs, permutation tests, false discovery rate control.",
-    "objectives": [
-      "Thiết kế equivalence và non-inferiority study",
-      "Dùng sequential testing",
-      "Kiểm soát false discovery rate",
-      "Thực hiện permutation tests"
-    ],
-    "prerequisiteIds": [
-      "lss-bb-02"
-    ],
-    "lessonsCount": 28
-  },
-  {
-    "id": "lss-bb-09",
-    "categoryId": "lss",
-    "order": 27,
-    "level": "advanced",
-    "durationMins": 786,
-    "title": "Năng Lực Quá Trình Nâng Cao và SPC Nâng Cao",
-    "description": "Advanced capability: non-normal distributions, multivariate capability, long-term vs short-term dynamics, dynamic process capability, Advanced SPC: CUSUM, EWMA, multivariate charts.",
-    "objectives": [
-      "Capability analysis cho non-normal data",
-      "Multivariate process capability",
-      "CUSUM và EWMA chart implementation",
-      "Multivariate SPC: Hotelling T²"
-    ],
-    "prerequisiteIds": [
-      "lss-gb-08",
-      "lss-gb-07"
-    ],
-    "lessonsCount": 28
-  },
-  {
-    "id": "lss-bb-10",
-    "categoryId": "lss",
-    "order": 28,
-    "level": "advanced",
-    "durationMins": 825,
-    "title": "FMEA Nâng Cao: AIAG-VDA và Reliability",
-    "description": "FMEA theo AIAG-VDA 2019 đầy đủ, Design FMEA, System FMEA, fault tree, reliability basics, MTBF, failure rate, Weibull analysis, accelerated life testing.",
-    "objectives": [
-      "DFMEA theo AIAG-VDA 2019",
-      "Phân tích reliability với Weibull",
-      "Tính MTBF và failure rate",
-      "Accelerated life testing cơ bản"
-    ],
-    "prerequisiteIds": [
-      "lss-gb-09"
-    ],
-    "lessonsCount": 30
-  },
-  {
-    "id": "lss-bb-11",
-    "categoryId": "lss",
-    "order": 29,
-    "level": "advanced",
-    "durationMins": 729,
-    "title": "Lean Nâng Cao: VSM, Pull, Flow và Complexity",
-    "description": "Advanced Lean: Complex VSM với loops, extended value streams, supply chain mapping, complexity reduction, demand segmentation, Lean-Agile hybrid.",
-    "objectives": [
-      "VSM cho supply chain phức tạp",
-      "Demand segmentation và DDMRP",
-      "Lean-Agile integration",
-      "Complexity management"
-    ],
-    "prerequisiteIds": [
-      "lss-gb-11"
-    ],
-    "lessonsCount": 27
-  },
-  {
-    "id": "lss-bb-12",
-    "categoryId": "lss",
-    "order": 30,
-    "level": "advanced",
-    "durationMins": 779,
-    "title": "Design for Six Sigma (DFSS)",
-    "description": "DFSS methodologies: DMADV, IDOV, CDOV. QFD advanced, Axiomatic Design, TRIZ, robust design, tolerance design, simulation-based design, Design for Manufacturability.",
-    "objectives": [
-      "Phân biệt DFSS vs DMAIC",
-      "Thực hiện QFD 4 phases",
-      "Dùng TRIZ giải quyết contradiction",
-      "Robust design với Taguchi"
-    ],
-    "prerequisiteIds": [
-      "lss-bb-03"
-    ],
-    "lessonsCount": 28
-  },
-  {
-    "id": "lss-bb-13",
-    "categoryId": "lss",
-    "order": 31,
-    "level": "advanced",
-    "durationMins": 648,
-    "title": "Chi Phí Chất Lượng (COQ) và Tài Chính Dự Án",
-    "description": "Cost of Quality framework: Prevention, Appraisal, Internal Failure, External Failure costs. Tính toán COQ, ROI dự án, NPV, IRR, payback period, financial justification.",
-    "objectives": [
-      "Lập COQ baseline cho quy trình",
-      "Tính ROI, NPV, IRR dự án LSS",
-      "Xây dựng business case tài chính",
-      "Trình bày tác động tài chính với CFO"
-    ],
-    "prerequisiteIds": [
-      "lss-gb-01"
-    ],
-    "lessonsCount": 26
-  },
-  {
-    "id": "lss-bb-14",
-    "categoryId": "lss",
-    "order": 32,
-    "level": "advanced",
-    "durationMins": 656,
-    "title": "Quản Lý Thay Đổi và Lãnh Đạo Dự Án",
-    "description": "Change management trong LSS: ADKAR model, Kotter 8-step, resistance management, coalition building, stakeholder engagement, leadership styles cho Black Belt.",
-    "objectives": [
-      "Áp dụng ADKAR model",
-      "Lập change management plan",
-      "Vượt qua kháng cự tổ chức",
-      "Lãnh đạo nhóm đa chức năng"
-    ],
-    "prerequisiteIds": [
-      "lss-gb-01"
-    ],
-    "lessonsCount": 26
-  },
-  {
-    "id": "lss-bb-15",
-    "categoryId": "lss",
-    "order": 33,
-    "level": "advanced",
-    "durationMins": 618,
-    "title": "Coaching và Phát Triển Green Belt",
-    "description": "Kỹ năng coaching BB: mentoring GB, project review, technical advice, facilitating Kaizen events, training design, competency assessment.",
-    "objectives": [
-      "Coach GB qua dự án",
-      "Facilitate Kaizen events",
-      "Thiết kế và dạy LSS training",
-      "Đánh giá năng lực belt"
-    ],
-    "prerequisiteIds": [
-      "lss-gb-12"
-    ],
-    "lessonsCount": 26
-  },
-  {
-    "id": "lss-bb-16",
-    "categoryId": "lss",
-    "order": 34,
-    "level": "advanced",
-    "durationMins": 712,
-    "title": "Tích Hợp Lean, Six Sigma và Theory of Constraints",
-    "description": "Tích hợp 3 phương pháp: TOC (Theory of Constraints) với 5 focusing steps, Thinking Process Tools, drum-buffer-rope, throughput accounting, Lean-TOC-SS synergy.",
-    "objectives": [
-      "Xác định system constraint bằng TOC",
-      "Áp dụng drum-buffer-rope scheduling",
-      "Tích hợp Lean và TOC",
-      "Throughput accounting vs cost accounting"
-    ],
-    "prerequisiteIds": [
-      "lss-gb-11"
-    ],
-    "lessonsCount": 27
-  },
-  {
-    "id": "lss-bb-17",
-    "categoryId": "lss",
-    "order": 35,
-    "level": "advanced",
-    "durationMins": 717,
-    "title": "Six Sigma Trong Chuỗi Cung Ứng",
-    "description": "LSS cho supply chain: supplier quality management, APQP/PPAP, incoming inspection optimization, demand forecasting improvement, distribution center Lean.",
-    "objectives": [
-      "APQP và PPAP supplier development",
-      "Tối ưu hóa incoming inspection",
-      "LSS trong warehouse và logistics",
-      "Supplier scorecard và development"
-    ],
-    "prerequisiteIds": [
-      "lss-gb-06"
-    ],
-    "lessonsCount": 27
-  },
-  {
-    "id": "lss-bb-18",
-    "categoryId": "lss",
-    "order": 36,
-    "level": "advanced",
-    "durationMins": 690,
-    "title": "Six Sigma Trong Dịch Vụ và Văn Phòng",
-    "description": "Transactional Six Sigma: áp dụng DMAIC cho quy trình văn phòng, dịch vụ khách hàng, HR, finance, IT. Lean Office, process cycle efficiency, transactional metrics.",
-    "objectives": [
-      "DMAIC cho quy trình văn phòng",
-      "Lean Office: loại bỏ waste gián tiếp",
-      "Metrics cho transactional processes",
-      "Case studies dịch vụ và hành chính"
-    ],
-    "prerequisiteIds": [
-      "lss-gb-06"
-    ],
-    "lessonsCount": 27
-  },
-  {
-    "id": "lss-bb-19",
-    "categoryId": "lss",
-    "order": 37,
-    "level": "advanced",
-    "durationMins": 704,
-    "title": "Enterprise LSS Deployment",
-    "description": "Triển khai LSS toàn tổ chức: infrastructure setup, project selection system, pipeline management, deployment roadmap, cultural transformation, metrics.",
-    "objectives": [
-      "Thiết kế LSS deployment roadmap",
-      "Xây dựng project selection system",
-      "Quản lý pipeline dự án",
-      "Đo lường deployment effectiveness"
-    ],
-    "prerequisiteIds": [
-      "lss-bb-14"
-    ],
-    "lessonsCount": 27
-  },
-  {
-    "id": "lss-bb-20",
-    "categoryId": "lss",
-    "order": 38,
-    "level": "advanced",
-    "durationMins": 673,
-    "title": "Black Belt Capstone: Dự Án Thực Chiến Cấp Cao",
-    "description": "Dự án BB hoàn chỉnh: phức tạp đa chiều, yêu cầu DOE hoặc advanced statistics, tác động tài chính lớn, multi-site hoặc multi-department scope.",
-    "objectives": [
-      "Hoàn thành dự án BB từ A-Z",
-      "Đạt tiết kiệm tài chính lớn",
-      "Trình bày với C-suite",
-      "Bàn giao và nhân rộng kết quả"
-    ],
-    "prerequisiteIds": [
-      "lss-bb-06",
-      "lss-bb-07",
-      "lss-bb-03"
-    ],
-    "lessonsCount": 24
-  },
-  {
-    "id": "qc-06",
-    "categoryId": "qc",
-    "order": 6,
-    "level": "intermediate",
-    "durationMins": 612,
-    "title": "Kiểm Soát Chất Lượng Đầu Vào (IQC)",
-    "description": "AQL, sampling plan, nhận diện lỗi, NCR và quản lý nhà cung cấp theo tiêu chuẩn ANSI/ASQ Z1.4",
-    "objectives": [
-      "Xây dựng IQC plan theo AQL",
-      "Viết NCR và xử lý hàng không đạt",
-      "Thiết lập supplier rating dựa trên IQC data"
-    ],
-    "prerequisiteIds": [
-      "qc-01"
-    ],
-    "lessonsCount": 28
-  },
-  {
     "id": "qc-07",
     "categoryId": "qc",
     "order": 7,
@@ -6707,5 +5956,738 @@
       "ld-01"
     ],
     "lessonsCount": 18
+  },
+  {
+    "id": "lss-yb-01",
+    "categoryId": "lss",
+    "order": 1,
+    "level": "beginner",
+    "durationMins": 440,
+    "title": "Giới Thiệu Lean Six Sigma",
+    "description": "Hiểu bản chất LSS, lịch sử hình thành, vai trò từng đai, lộ trình chứng chỉ và lợi ích áp dụng trong doanh nghiệp sản xuất Việt Nam.",
+    "objectives": [
+      "Giải thích Lean Six Sigma là gì và nguồn gốc",
+      "Phân biệt Yellow/Green/Black Belt",
+      "Hiểu cấu trúc DMAIC",
+      "Nhận diện lợi ích LSS trong nhà máy VN"
+    ],
+    "prerequisiteIds": [],
+    "lessonsCount": 20
+  },
+  {
+    "id": "lss-yb-02",
+    "categoryId": "lss",
+    "order": 2,
+    "level": "beginner",
+    "durationMins": 472,
+    "title": "Lean Cơ Bản: 8 Loại Lãng Phí và 5S",
+    "description": "Nhận diện 8 loại lãng phí TIMWOODI trong nhà máy, triển khai 5S từ S1 đến S5, xây dựng tiêu chuẩn và duy trì kết quả bền vững.",
+    "objectives": [
+      "Nhận diện 8 muda trong dây chuyền sản xuất",
+      "Triển khai đợt 5S đầu tiên đúng trình tự",
+      "Xây dựng checklist audit 5S",
+      "Đo lường kết quả trước-sau 5S bằng số liệu"
+    ],
+    "prerequisiteIds": [
+      "lss-yb-01"
+    ],
+    "lessonsCount": 22
+  },
+  {
+    "id": "lss-yb-03",
+    "categoryId": "lss",
+    "order": 3,
+    "level": "beginner",
+    "durationMins": 572,
+    "title": "7 Công Cụ QC Cơ Bản cho Yellow Belt",
+    "description": "Thực hành 7 công cụ chất lượng cổ điển: Checksheet, Pareto, Biểu đồ xương cá, Histogram, Control Chart, Scatter Plot, Flowchart trong bối cảnh sản xuất thực tế.",
+    "objectives": [
+      "Vẽ và đọc biểu đồ Pareto 80/20",
+      "Lập biểu đồ Ishikawa đúng cách",
+      "Xây dựng checksheet thu thập dữ liệu hiệu quả",
+      "Áp dụng đúng công cụ cho từng loại vấn đề"
+    ],
+    "prerequisiteIds": [
+      "lss-yb-01"
+    ],
+    "lessonsCount": 25
+  },
+  {
+    "id": "lss-yb-04",
+    "categoryId": "lss",
+    "order": 4,
+    "level": "beginner",
+    "durationMins": 488,
+    "title": "Thu Thập và Đo Lường Dữ Liệu",
+    "description": "Phân biệt dữ liệu biến liên tục và thuộc tính, thiết kế kế hoạch thu thập dữ liệu, tính toán cỡ mẫu, và hiểu cơ bản về biến động trong quá trình.",
+    "objectives": [
+      "Phân biệt dữ liệu liên tục vs thuộc tính",
+      "Thiết kế MSA đơn giản để kiểm tra hệ thống đo",
+      "Tính cỡ mẫu tối thiểu cần thu thập",
+      "Nhận diện nguồn gây biến động trong quá trình"
+    ],
+    "prerequisiteIds": [
+      "lss-yb-01"
+    ],
+    "lessonsCount": 22
+  },
+  {
+    "id": "lss-yb-05",
+    "categoryId": "lss",
+    "order": 5,
+    "level": "beginner",
+    "durationMins": 455,
+    "title": "Define Phase: Xác Định Vấn Đề và Mục Tiêu",
+    "description": "Lập Project Charter, SIPOC, VOC/CTQ tree cho dự án Yellow Belt. Học cách phát biểu vấn đề đúng chuẩn và thiết lập mục tiêu SMART.",
+    "objectives": [
+      "Lập Project Charter hoàn chỉnh",
+      "Xây dựng sơ đồ SIPOC",
+      "Chuyển đổi tiếng nói khách hàng thành CTQ đo lường được",
+      "Phát biểu vấn đề theo chuẩn Problem Statement"
+    ],
+    "prerequisiteIds": [
+      "lss-yb-01",
+      "lss-yb-04"
+    ],
+    "lessonsCount": 20
+  },
+  {
+    "id": "lss-yb-06",
+    "categoryId": "lss",
+    "order": 6,
+    "level": "beginner",
+    "durationMins": 494,
+    "title": "Yellow Belt Project Simulation",
+    "description": "Thực hành toàn bộ DMAIC qua bài toán mô phỏng từ nhà máy sản xuất: từ xác định vấn đề, thu thập dữ liệu, phân tích nguyên nhân đến đề xuất cải tiến và kiểm soát.",
+    "objectives": [
+      "Hoàn thành dự án DMAIC từ A-Z",
+      "Trình bày kết quả bằng báo cáo A3",
+      "Tính toán tiết kiệm tài chính từ cải tiến",
+      "Lập Control Plan duy trì kết quả"
+    ],
+    "prerequisiteIds": [
+      "lss-yb-01",
+      "lss-yb-02",
+      "lss-yb-03",
+      "lss-yb-04",
+      "lss-yb-05"
+    ],
+    "lessonsCount": 20
+  },
+  {
+    "id": "lss-gb-01",
+    "categoryId": "lss",
+    "order": 7,
+    "level": "intermediate",
+    "durationMins": 672,
+    "title": "DMAIC Define Nâng Cao: Từ Vấn Đề Đến Dự Án",
+    "description": "Kỹ năng Define giai đoạn 1 chuyên sâu: multi-level CTQ, Stakeholder Analysis, Project Charter chuẩn ASQ, quản lý kỳ vọng sponsor, và gate review đầu tiên.",
+    "objectives": [
+      "Lập Project Charter chuẩn Green Belt",
+      "Xây dựng Business Case thuyết phục",
+      "Phân tích stakeholder và quản lý kỳ vọng",
+      "Hoàn thành gate review Define"
+    ],
+    "prerequisiteIds": [
+      "lss-yb-05"
+    ],
+    "lessonsCount": 28
+  },
+  {
+    "id": "lss-gb-02",
+    "categoryId": "lss",
+    "order": 8,
+    "level": "intermediate",
+    "durationMins": 742,
+    "title": "DMAIC Measure: Quy Trình, Đo Lường và Baseline",
+    "description": "Giai đoạn Measure toàn diện: lập Measurement System Analysis (MSA), tính Process Capability, xác lập Baseline Sigma, thu thập dữ liệu chuẩn.",
+    "objectives": [
+      "Thực hiện MSA đầy đủ (Gage R&R)",
+      "Tính Cp, Cpk, Pp, Ppk chính xác",
+      "Xác lập baseline sigma cho CTQ",
+      "Phân tích Process Map chi tiết"
+    ],
+    "prerequisiteIds": [
+      "lss-gb-01"
+    ],
+    "lessonsCount": 28
+  },
+  {
+    "id": "lss-gb-03",
+    "categoryId": "lss",
+    "order": 9,
+    "level": "intermediate",
+    "durationMins": 837,
+    "title": "Thống Kê Cơ Bản cho Green Belt",
+    "description": "Nền tảng thống kê để phân tích dữ liệu sản xuất: phân phối xác suất, ước lượng, khoảng tin cậy, kiểm định giả thuyết cơ bản, tương quan và hồi quy đơn giản.",
+    "objectives": [
+      "Tính và diễn giải khoảng tin cậy",
+      "Thực hiện kiểm định t-test và z-test",
+      "Đọc p-value và kết luận đúng",
+      "Phân tích tương quan Pearson"
+    ],
+    "prerequisiteIds": [
+      "lss-yb-04"
+    ],
+    "lessonsCount": 32
+  },
+  {
+    "id": "lss-gb-04",
+    "categoryId": "lss",
+    "order": 10,
+    "level": "intermediate",
+    "durationMins": 715,
+    "title": "DMAIC Analyze: Tìm Nguyên Nhân Gốc Rễ",
+    "description": "Giai đoạn Analyze chuyên sâu: từ hypothesis đến confirmed root cause. Kiểm định giả thuyết, phân tích hồi quy, DOE sơ bộ, multi-vari study.",
+    "objectives": [
+      "Lập và kiểm định hypothesis về root cause",
+      "Dùng regression phân tích mối quan hệ X-Y",
+      "Thực hiện multi-vari study",
+      "Xác nhận root cause bằng dữ liệu"
+    ],
+    "prerequisiteIds": [
+      "lss-gb-02",
+      "lss-gb-03"
+    ],
+    "lessonsCount": 28
+  },
+  {
+    "id": "lss-gb-05",
+    "categoryId": "lss",
+    "order": 11,
+    "level": "intermediate",
+    "durationMins": 734,
+    "title": "DMAIC Improve: Thiết Kế và Triển Khai Giải Pháp",
+    "description": "Giai đoạn Improve: brainstorm sáng tạo, lựa chọn giải pháp, DOE cơ bản, pilot test, triển khai và đo kết quả thực tế.",
+    "objectives": [
+      "Tổ chức brainstorming hiệu quả",
+      "Dùng Solution Selection Matrix",
+      "Thiết kế và chạy DOE đơn giản",
+      "Thực hiện pilot và đánh giá kết quả"
+    ],
+    "prerequisiteIds": [
+      "lss-gb-04"
+    ],
+    "lessonsCount": 28
+  },
+  {
+    "id": "lss-gb-06",
+    "categoryId": "lss",
+    "order": 12,
+    "level": "intermediate",
+    "durationMins": 711,
+    "title": "DMAIC Control: Kiểm Soát và Duy Trì Bền Vững",
+    "description": "Giai đoạn Control hoàn chỉnh: SPC implementation, Control Plan, FMEA cập nhật, Transfer to Process Owner, project closure và celebration.",
+    "objectives": [
+      "Thiết lập SPC chart phù hợp",
+      "Lập Control Plan chi tiết",
+      "Bàn giao dự án cho Process Owner",
+      "Hoàn thành project closure report"
+    ],
+    "prerequisiteIds": [
+      "lss-gb-05"
+    ],
+    "lessonsCount": 28
+  },
+  {
+    "id": "lss-gb-07",
+    "categoryId": "lss",
+    "order": 13,
+    "level": "intermediate",
+    "durationMins": 750,
+    "title": "Biểu Đồ Kiểm Soát (Control Charts) Chuyên Sâu",
+    "description": "Tất cả các loại control chart: Xbar-R, Xbar-S, I-MR, p, np, c, u charts. Lựa chọn đúng loại, nhận diện tín hiệu, phân tích tình huống thực tế.",
+    "objectives": [
+      "Chọn đúng control chart cho từng tình huống",
+      "Phát hiện 8 tín hiệu Western Electric Rules",
+      "Phân biệt biến động Common vs Special Cause",
+      "Thiết lập control chart từ đầu"
+    ],
+    "prerequisiteIds": [
+      "lss-yb-04"
+    ],
+    "lessonsCount": 28
+  },
+  {
+    "id": "lss-gb-08",
+    "categoryId": "lss",
+    "order": 14,
+    "level": "intermediate",
+    "durationMins": 726,
+    "title": "Năng Lực Quá Trình (Process Capability)",
+    "description": "Tính toán và diễn giải Cp, Cpk, Pp, Ppk, Cpm, sigma level, DPMO cho cả dữ liệu liên tục và thuộc tính trong môi trường sản xuất thực tế.",
+    "objectives": [
+      "Tính Cp/Cpk chính xác và diễn giải",
+      "Phân biệt Cp và Cpk, Pp và Ppk",
+      "Tính năng lực cho dữ liệu thuộc tính",
+      "Lập kế hoạch cải tiến từ Cpk"
+    ],
+    "prerequisiteIds": [
+      "lss-gb-03"
+    ],
+    "lessonsCount": 28
+  },
+  {
+    "id": "lss-gb-09",
+    "categoryId": "lss",
+    "order": 15,
+    "level": "intermediate",
+    "durationMins": 726,
+    "title": "FMEA: Phân Tích Rủi Ro và Phòng Ngừa Lỗi",
+    "description": "FMEA Process toàn diện theo chuẩn AIAG-VDA 2019: xác định failure modes, đánh giá Severity/Occurrence/Detection, tính RPN, lập action plan.",
+    "objectives": [
+      "Thực hiện Process FMEA từ A-Z",
+      "Đánh giá S/O/D theo thang chuẩn AIAG",
+      "Ưu tiên action plan theo RPN",
+      "Cập nhật FMEA sau cải tiến"
+    ],
+    "prerequisiteIds": [
+      "lss-gb-01"
+    ],
+    "lessonsCount": 28
+  },
+  {
+    "id": "lss-gb-10",
+    "categoryId": "lss",
+    "order": 16,
+    "level": "intermediate",
+    "durationMins": 715,
+    "title": "Value Stream Mapping (VSM): Nhìn Thấy Toàn Bộ Dòng Giá Trị",
+    "description": "VSM từ cơ bản đến nâng cao: vẽ current state, xác định waste và bottleneck, thiết kế future state, lập implementation roadmap.",
+    "objectives": [
+      "Vẽ Current State Map chuẩn Lean",
+      "Tính Lead Time và Process Time",
+      "Xác định bottleneck và waste",
+      "Thiết kế Future State với Lean principles"
+    ],
+    "prerequisiteIds": [
+      "lss-yb-02"
+    ],
+    "lessonsCount": 28
+  },
+  {
+    "id": "lss-gb-11",
+    "categoryId": "lss",
+    "order": 17,
+    "level": "intermediate",
+    "durationMins": 735,
+    "title": "Lean Nâng Cao: Kaizen, JIT, Heijunka và Pull Systems",
+    "description": "Hệ thống Lean hoàn chỉnh: Just-In-Time production, Kanban pull system, Heijunka (production leveling), Single-Minute Exchange of Die (SMED), Total Productive Maintenance (TPM).",
+    "objectives": [
+      "Thiết kế hệ thống Kanban pull",
+      "Tính toán và triển khai SMED",
+      "Lập kế hoạch Heijunka",
+      "Hiểu TPM và 6 big losses"
+    ],
+    "prerequisiteIds": [
+      "lss-yb-02",
+      "lss-gb-10"
+    ],
+    "lessonsCount": 28
+  },
+  {
+    "id": "lss-gb-12",
+    "categoryId": "lss",
+    "order": 18,
+    "level": "intermediate",
+    "durationMins": 602,
+    "title": "Green Belt Capstone: Dự Án Thực Chiến",
+    "description": "Hoàn thành dự án DMAIC Green Belt thực tế từ A-Z: Define → Measure → Analyze → Improve → Control với mentoring từ Black Belt. Báo cáo cuối và kết quả đo được.",
+    "objectives": [
+      "Hoàn thành dự án GB đầy đủ DMAIC",
+      "Đạt kết quả tài chính đo được",
+      "Trình bày với ban lãnh đạo",
+      "Bàn giao và đảm bảo duy trì"
+    ],
+    "prerequisiteIds": [
+      "lss-gb-06",
+      "lss-gb-07",
+      "lss-gb-08",
+      "lss-gb-09"
+    ],
+    "lessonsCount": 24
+  },
+  {
+    "id": "lss-bb-01",
+    "categoryId": "lss",
+    "order": 19,
+    "level": "advanced",
+    "durationMins": 753,
+    "title": "Six Sigma Define và Measure Nâng Cao",
+    "description": "Kỹ thuật Define/Measure cấp BB: Project Portfolio Management, multi-CTQ trees, advanced MSA (linearity, bias, stability), expanded sampling strategies.",
+    "objectives": [
+      "Quản lý danh mục dự án BB",
+      "MSA nâng cao: linearity, bias, stability",
+      "Thiết kế sampling strategies phức tạp",
+      "Phân tích process complexity"
+    ],
+    "prerequisiteIds": [
+      "lss-gb-06"
+    ],
+    "lessonsCount": 28
+  },
+  {
+    "id": "lss-bb-02",
+    "categoryId": "lss",
+    "order": 20,
+    "level": "advanced",
+    "durationMins": 844,
+    "title": "Thống Kê Suy Diễn Nâng Cao",
+    "description": "Thống kê cấp BB: ANOVA nhiều chiều, Levene Test, Mood Median Test, Kruskal-Wallis, Welch ANOVA, bootstrapping, bayesian basics, power analysis chuyên sâu.",
+    "objectives": [
+      "Thực hiện ANOVA đa chiều",
+      "Chọn đúng kiểm định non-parametric",
+      "Tính power và sample size phức tạp",
+      "Diễn giải kết quả thống kê phức tạp"
+    ],
+    "prerequisiteIds": [
+      "lss-gb-03"
+    ],
+    "lessonsCount": 30
+  },
+  {
+    "id": "lss-bb-03",
+    "categoryId": "lss",
+    "order": 21,
+    "level": "advanced",
+    "durationMins": 806,
+    "title": "Design of Experiments (DOE) Cơ Bản đến Nâng Cao",
+    "description": "DOE từ full factorial đến fractional factorial: 2k, 2k-p designs, center points, blocking, randomization, main effects, interaction plots, curvature detection.",
+    "objectives": [
+      "Thiết kế 2k full factorial",
+      "Chạy và phân tích full factorial",
+      "Xây dựng regression model từ DOE",
+      "Tối ưu hóa bằng đồ thị contour"
+    ],
+    "prerequisiteIds": [
+      "lss-gb-04"
+    ],
+    "lessonsCount": 28
+  },
+  {
+    "id": "lss-bb-04",
+    "categoryId": "lss",
+    "order": 22,
+    "level": "advanced",
+    "durationMins": 897,
+    "title": "DOE Nâng Cao: Fractional Factorial và Response Surface",
+    "description": "Fractional factorial designs, Plackett-Burman screening, Response Surface Methodology (RSM), Central Composite Design (CCD), Box-Behnken Design, Mixture Designs.",
+    "objectives": [
+      "Thiết kế và phân tích fractional factorial",
+      "Sử dụng Plackett-Burman để screening",
+      "Thực hiện RSM để tối ưu hóa",
+      "Diễn giải contour và surface plots"
+    ],
+    "prerequisiteIds": [
+      "lss-bb-03"
+    ],
+    "lessonsCount": 30
+  },
+  {
+    "id": "lss-bb-05",
+    "categoryId": "lss",
+    "order": 23,
+    "level": "advanced",
+    "durationMins": 753,
+    "title": "MSA Nâng Cao: Gage R&R và Measurement Uncertainty",
+    "description": "MSA cấp BB: Gage R&R crossed và nested, linearity study, bias study, stability study, destructive testing MSA, attribute MSA kappa, AIAG MSA 4th edition.",
+    "objectives": [
+      "Thực hiện Gage R&R crossed/nested",
+      "Phân tích linearity và bias",
+      "MSA cho destructive testing",
+      "Tính measurement uncertainty (GUM)"
+    ],
+    "prerequisiteIds": [
+      "lss-gb-02"
+    ],
+    "lessonsCount": 27
+  },
+  {
+    "id": "lss-bb-06",
+    "categoryId": "lss",
+    "order": 24,
+    "level": "advanced",
+    "durationMins": 779,
+    "title": "ANOVA và Phân Tích Phương Sai",
+    "description": "One-way ANOVA, Two-way ANOVA, ANCOVA, Repeated Measures ANOVA, Mixed Models, Post-hoc tests (Tukey, Bonferroni, Dunnett), Multiple Comparison Problem.",
+    "objectives": [
+      "Thực hiện One-way và Two-way ANOVA",
+      "Kiểm tra giả định ANOVA",
+      "Dùng post-hoc tests đúng cách",
+      "Xử lý unbalanced designs"
+    ],
+    "prerequisiteIds": [
+      "lss-bb-02"
+    ],
+    "lessonsCount": 28
+  },
+  {
+    "id": "lss-bb-07",
+    "categoryId": "lss",
+    "order": 25,
+    "level": "advanced",
+    "durationMins": 842,
+    "title": "Hồi Quy Đa Biến và Logistic Regression",
+    "description": "Multiple regression, stepwise selection, multicollinearity, VIF, ridge regression, logistic regression, binary and ordinal outcomes, model validation.",
+    "objectives": [
+      "Xây dựng và validate multiple regression model",
+      "Phát hiện và xử lý multicollinearity",
+      "Thực hiện logistic regression",
+      "Diễn giải odds ratio"
+    ],
+    "prerequisiteIds": [
+      "lss-bb-02"
+    ],
+    "lessonsCount": 30
+  },
+  {
+    "id": "lss-bb-08",
+    "categoryId": "lss",
+    "order": 26,
+    "level": "advanced",
+    "durationMins": 755,
+    "title": "Kiểm Định Giả Thuyết Nâng Cao",
+    "description": "Phức tạp hóa hypothesis testing: equivalence testing, non-inferiority, sequential testing, adaptive designs, permutation tests, false discovery rate control.",
+    "objectives": [
+      "Thiết kế equivalence và non-inferiority study",
+      "Dùng sequential testing",
+      "Kiểm soát false discovery rate",
+      "Thực hiện permutation tests"
+    ],
+    "prerequisiteIds": [
+      "lss-bb-02"
+    ],
+    "lessonsCount": 28
+  },
+  {
+    "id": "lss-bb-09",
+    "categoryId": "lss",
+    "order": 27,
+    "level": "advanced",
+    "durationMins": 786,
+    "title": "Năng Lực Quá Trình Nâng Cao và SPC Nâng Cao",
+    "description": "Advanced capability: non-normal distributions, multivariate capability, long-term vs short-term dynamics, dynamic process capability, Advanced SPC: CUSUM, EWMA, multivariate charts.",
+    "objectives": [
+      "Capability analysis cho non-normal data",
+      "Multivariate process capability",
+      "CUSUM và EWMA chart implementation",
+      "Multivariate SPC: Hotelling T²"
+    ],
+    "prerequisiteIds": [
+      "lss-gb-08",
+      "lss-gb-07"
+    ],
+    "lessonsCount": 28
+  },
+  {
+    "id": "lss-bb-10",
+    "categoryId": "lss",
+    "order": 28,
+    "level": "advanced",
+    "durationMins": 825,
+    "title": "FMEA Nâng Cao: AIAG-VDA và Reliability",
+    "description": "FMEA theo AIAG-VDA 2019 đầy đủ, Design FMEA, System FMEA, fault tree, reliability basics, MTBF, failure rate, Weibull analysis, accelerated life testing.",
+    "objectives": [
+      "DFMEA theo AIAG-VDA 2019",
+      "Phân tích reliability với Weibull",
+      "Tính MTBF và failure rate",
+      "Accelerated life testing cơ bản"
+    ],
+    "prerequisiteIds": [
+      "lss-gb-09"
+    ],
+    "lessonsCount": 30
+  },
+  {
+    "id": "lss-bb-11",
+    "categoryId": "lss",
+    "order": 29,
+    "level": "advanced",
+    "durationMins": 729,
+    "title": "Lean Nâng Cao: VSM, Pull, Flow và Complexity",
+    "description": "Advanced Lean: Complex VSM với loops, extended value streams, supply chain mapping, complexity reduction, demand segmentation, Lean-Agile hybrid.",
+    "objectives": [
+      "VSM cho supply chain phức tạp",
+      "Demand segmentation và DDMRP",
+      "Lean-Agile integration",
+      "Complexity management"
+    ],
+    "prerequisiteIds": [
+      "lss-gb-11"
+    ],
+    "lessonsCount": 27
+  },
+  {
+    "id": "lss-bb-12",
+    "categoryId": "lss",
+    "order": 30,
+    "level": "advanced",
+    "durationMins": 779,
+    "title": "Design for Six Sigma (DFSS)",
+    "description": "DFSS methodologies: DMADV, IDOV, CDOV. QFD advanced, Axiomatic Design, TRIZ, robust design, tolerance design, simulation-based design, Design for Manufacturability.",
+    "objectives": [
+      "Phân biệt DFSS vs DMAIC",
+      "Thực hiện QFD 4 phases",
+      "Dùng TRIZ giải quyết contradiction",
+      "Robust design với Taguchi"
+    ],
+    "prerequisiteIds": [
+      "lss-bb-03"
+    ],
+    "lessonsCount": 28
+  },
+  {
+    "id": "lss-bb-13",
+    "categoryId": "lss",
+    "order": 31,
+    "level": "advanced",
+    "durationMins": 648,
+    "title": "Chi Phí Chất Lượng (COQ) và Tài Chính Dự Án",
+    "description": "Cost of Quality framework: Prevention, Appraisal, Internal Failure, External Failure costs. Tính toán COQ, ROI dự án, NPV, IRR, payback period, financial justification.",
+    "objectives": [
+      "Lập COQ baseline cho quy trình",
+      "Tính ROI, NPV, IRR dự án LSS",
+      "Xây dựng business case tài chính",
+      "Trình bày tác động tài chính với CFO"
+    ],
+    "prerequisiteIds": [
+      "lss-gb-01"
+    ],
+    "lessonsCount": 26
+  },
+  {
+    "id": "lss-bb-14",
+    "categoryId": "lss",
+    "order": 32,
+    "level": "advanced",
+    "durationMins": 656,
+    "title": "Quản Lý Thay Đổi và Lãnh Đạo Dự Án",
+    "description": "Change management trong LSS: ADKAR model, Kotter 8-step, resistance management, coalition building, stakeholder engagement, leadership styles cho Black Belt.",
+    "objectives": [
+      "Áp dụng ADKAR model",
+      "Lập change management plan",
+      "Vượt qua kháng cự tổ chức",
+      "Lãnh đạo nhóm đa chức năng"
+    ],
+    "prerequisiteIds": [
+      "lss-gb-01"
+    ],
+    "lessonsCount": 26
+  },
+  {
+    "id": "lss-bb-15",
+    "categoryId": "lss",
+    "order": 33,
+    "level": "advanced",
+    "durationMins": 618,
+    "title": "Coaching và Phát Triển Green Belt",
+    "description": "Kỹ năng coaching BB: mentoring GB, project review, technical advice, facilitating Kaizen events, training design, competency assessment.",
+    "objectives": [
+      "Coach GB qua dự án",
+      "Facilitate Kaizen events",
+      "Thiết kế và dạy LSS training",
+      "Đánh giá năng lực belt"
+    ],
+    "prerequisiteIds": [
+      "lss-gb-12"
+    ],
+    "lessonsCount": 26
+  },
+  {
+    "id": "lss-bb-16",
+    "categoryId": "lss",
+    "order": 34,
+    "level": "advanced",
+    "durationMins": 712,
+    "title": "Tích Hợp Lean, Six Sigma và Theory of Constraints",
+    "description": "Tích hợp 3 phương pháp: TOC (Theory of Constraints) với 5 focusing steps, Thinking Process Tools, drum-buffer-rope, throughput accounting, Lean-TOC-SS synergy.",
+    "objectives": [
+      "Xác định system constraint bằng TOC",
+      "Áp dụng drum-buffer-rope scheduling",
+      "Tích hợp Lean và TOC",
+      "Throughput accounting vs cost accounting"
+    ],
+    "prerequisiteIds": [
+      "lss-gb-11"
+    ],
+    "lessonsCount": 27
+  },
+  {
+    "id": "lss-bb-17",
+    "categoryId": "lss",
+    "order": 35,
+    "level": "advanced",
+    "durationMins": 717,
+    "title": "Six Sigma Trong Chuỗi Cung Ứng",
+    "description": "LSS cho supply chain: supplier quality management, APQP/PPAP, incoming inspection optimization, demand forecasting improvement, distribution center Lean.",
+    "objectives": [
+      "APQP và PPAP supplier development",
+      "Tối ưu hóa incoming inspection",
+      "LSS trong warehouse và logistics",
+      "Supplier scorecard và development"
+    ],
+    "prerequisiteIds": [
+      "lss-gb-06"
+    ],
+    "lessonsCount": 27
+  },
+  {
+    "id": "lss-bb-18",
+    "categoryId": "lss",
+    "order": 36,
+    "level": "advanced",
+    "durationMins": 690,
+    "title": "Six Sigma Trong Dịch Vụ và Văn Phòng",
+    "description": "Transactional Six Sigma: áp dụng DMAIC cho quy trình văn phòng, dịch vụ khách hàng, HR, finance, IT. Lean Office, process cycle efficiency, transactional metrics.",
+    "objectives": [
+      "DMAIC cho quy trình văn phòng",
+      "Lean Office: loại bỏ waste gián tiếp",
+      "Metrics cho transactional processes",
+      "Case studies dịch vụ và hành chính"
+    ],
+    "prerequisiteIds": [
+      "lss-gb-06"
+    ],
+    "lessonsCount": 27
+  },
+  {
+    "id": "lss-bb-19",
+    "categoryId": "lss",
+    "order": 37,
+    "level": "advanced",
+    "durationMins": 704,
+    "title": "Enterprise LSS Deployment",
+    "description": "Triển khai LSS toàn tổ chức: infrastructure setup, project selection system, pipeline management, deployment roadmap, cultural transformation, metrics.",
+    "objectives": [
+      "Thiết kế LSS deployment roadmap",
+      "Xây dựng project selection system",
+      "Quản lý pipeline dự án",
+      "Đo lường deployment effectiveness"
+    ],
+    "prerequisiteIds": [
+      "lss-bb-14"
+    ],
+    "lessonsCount": 27
+  },
+  {
+    "id": "lss-bb-20",
+    "categoryId": "lss",
+    "order": 38,
+    "level": "advanced",
+    "durationMins": 673,
+    "title": "Black Belt Capstone: Dự Án Thực Chiến Cấp Cao",
+    "description": "Dự án BB hoàn chỉnh: phức tạp đa chiều, yêu cầu DOE hoặc advanced statistics, tác động tài chính lớn, multi-site hoặc multi-department scope.",
+    "objectives": [
+      "Hoàn thành dự án BB từ A-Z",
+      "Đạt tiết kiệm tài chính lớn",
+      "Trình bày với C-suite",
+      "Bàn giao và nhân rộng kết quả"
+    ],
+    "prerequisiteIds": [
+      "lss-bb-06",
+      "lss-bb-07",
+      "lss-bb-03"
+    ],
+    "lessonsCount": 24
   }
 ]
