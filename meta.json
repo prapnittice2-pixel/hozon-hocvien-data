@@ -2,8 +2,8 @@
   "lessonsCount": 10243,
   "coursesCount": 452,
   "description": "Hozon — Dynamic lesson data",
-  "generatedAt": "2026-06-29",
-  "version": "3.9.80",
+  "generatedAt": "2026-06-30",
+  "version": "3.9.81",
   "genericLessons": 0,
   "coverage": "100%"
 }
